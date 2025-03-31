@@ -9,23 +9,23 @@ smishing-backend/
 ├── .husky/         # Git pre-commit hooks
 |
 ├── docs/           # API documentation
+|   └── research/   # Research papers
+|   └── technical/  # Architectural diagrams, API documentation etc.
+|
+├── machine-learning/   # Machine Learning & AI (TO-DO: Move to seperate repo)
+|   ├── datasets/       # CSV, parquet files (training data, test sets)
+|   ├── notebooks/      # Jupyter notebooks (Model training, evaluation)
+|   └── projects/       # Partially complete/completed student projects
 |
 ├── src/
-│   ├── configs/      # MongoDB connection, environment config
-│   │
-│   ├── controllers/  # Functions handling request logic for user routes
-│   │
-│   ├── middlewares/  # Auth checks, logging, or other Express middleware
-│   │
-│   ├── models/       # Mongoose schema/models (e.g., user, post, etc.)
-│   │
-│   ├── routes/       # Express route definitions (e.g. /users, /login)
-│   │
-│   ├── services/     # Business logic, 3rd-party integrations (e.g., code for sending emails, external APIs)
-│   │
-│   ├── utils/        # Utility/helper functions (e.g., JWT generation, password hashing, etc.)
-│   │
-│   └── index.js      # Entry point, Express app setup, registering routes/middleware
+│   ├── configs/        # MongoDB connection, environment config
+│   ├── controllers/    # Functions handling request logic for user routes
+│   ├── middlewares/    # Auth checks, logging, or other Express middleware
+│   ├── models/         # Mongoose schema/models (e.g., user, post, etc.)
+│   ├── routes/         # Express route definitions (e.g. /users, /login)
+│   ├── services/       # Business logic, 3rd-party integrations (e.g., code for sending emails, external APIs)
+│   ├── utils/          # Utility/helper functions (e.g., JWT generation, password hashing, etc.)
+│   └── index.js        # Entry point, Express app setup, registering routes/middleware
 │
 ├── tests/          # Unit/integration tests (Jest/Mocha, etc.)
 │
