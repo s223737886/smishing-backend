@@ -1,0 +1,25 @@
+{
+    "name": "smishing-backend",
+    "version": "1.0.0",
+    "private": "true",
+    "scripts": {
+        "dev": "nodemon src/index.js",
+        "format": "prettier --write .",
+        "prepare": "husky install",
+        "test": "echo \"Error: No test specified\" && exit 1"
+    },
+    "dependencies": {
+        "bcrypt": "^5.1.1",
+        "dotenv": "^16.4.7",
+        "express": "^4.21.2",
+        "jsonwebtoken": "^9.0.2",
+        "mongoose": "^8.13.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.9",
+        "prettier": "^3.5.3"
+    },
+    "lint-staged": {
+        "*.{js}": "prettier --write"
+    }
+}
