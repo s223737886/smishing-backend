@@ -1,15 +1,17 @@
-require('dotenv').config()
+require('dotenv').config() // Load .env variables
 const express = require('express')
-const connectDB = require('./db.config')
-const authRoute = require('./routes/auth.route.js')
+const connectDB = require('./configs/db.config.js')
+
+const authRoute = require('./routes/auth.route') // Your auth routes
+const messageRoute = require('./routes/message.route') // Your message routes
 
 const app = express()
-app.use(express.json())
+app.use(express.json()) // Middleware to parse JSON
 
-// Connect to MongoDB before starting the server
+// Connect to MongoDB and start the server
 const startServer = async () => {
     try {
-        await connectDB() // Ensure MongoDB is connected before proceeding
+        await connectDB() // Connect to MongoDB
         console.log('✅ Database connected. Starting server...')
 
         const PORT = process.env.PORT || 3000
@@ -17,14 +19,18 @@ const startServer = async () => {
             console.log(`🚀 Server running on port ${PORT}`)
         })
     } catch (error) {
-        console.error('❌ Failed to connect to database. Server not started.')
-        process.exit(1) // Exit if DB connection fails
+        console.error(
+            '❌ Failed to connect to database. Server not started.',
+            error
+        )
+        process.exit(1) // Exit app if DB fails to connect
     }
 }
 
+// Mount your API routes
+app.use('/api/auth', authRoute)
+app.use('/api/messages', messageRoute)
+
 startServer()
 
-// Mount auth routes at /api/auth
-app.use('/api/auth', authRoute)
-
-module.exports = app // Keep this only if you're writing tests
+module.exports = app // Needed for testing only

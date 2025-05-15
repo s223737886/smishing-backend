@@ -17,11 +17,12 @@ const messageSchema = new mongoose.Schema({
         type: [String],
         default: [],
     },
-    dateReceived: {
-        type: Date,
-        default: Date.now,
+    riskExplanation: {
+        type: String,
+        default: '',
     },
 })
 
-const Message = mongoose.model('Message', messageSchema)
-module.exports = Message
+// ✅ Prevent OverwriteModelError
+module.exports =
+    mongoose.models.Message || mongoose.model('Message', messageSchema)
