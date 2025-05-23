@@ -1,0 +1,801 @@
+id,label,text,url,email,phone,source,intent_type,malicious,threat_level,linked_to,rewritten_text
+s00014,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,retail,support,yes,low,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00011,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,retail,data theft,yes,medium,adware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00012,ham,I'll be late. Stuck in traffic.,,user12@example.com,-2366,social,promotion,no,none,no,
+s00009,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,bank,support,yes,low,malware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00014,ham,I'll be late. Stuck in traffic.,,no,no,subscription,notification,no,none,no,
+s00007,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,social,account takeover,yes,medium,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00015,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,bank,data theft,yes,high,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00010,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,government,promotion,yes,low,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00008,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,-2362,bank,data theft,yes,medium,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00016,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,-2370,social,reminder,yes,medium,phishing,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00010,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,bank,support,no,medium,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00001,ham,"Hey, can you pick up some milk on your way home?",,no,no,utility,data theft,no,none,no,
+h00003,ham,"Hey, can you pick up some milk on your way home?",,user3@example.com,no,social,account takeover,no,none,no,
+s00013,smishing,FedEx delivery failed. Confirm your details: fedex-confirm.com,fedex-confirm.com,no,no,social,support,yes,high,malware,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+h00004,ham,Lunch at the usual place today?,,no,-2358,social,data theft,no,none,no,
+s00001,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,subscription,notification,no,high,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00009,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,subscription,account takeover,no,low,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00005,ham,Don't forget our meeting at 3 PM.,,no,no,delivery,reminder,no,none,no,
+h00007,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,subscription,promotion,no,none,no,
+s00019,smishing,Your account has been suspended. Reactivate now at secure-login.net.,,no,no,delivery,data theft,yes,medium,malware,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+s00007,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,retail,phishing,no,high,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00004,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2358,retail,data theft,yes,medium,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00005,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,retail,support,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+h00018,ham,I'll be late. Stuck in traffic.,,user18@example.com,no,utility,data theft,no,none,no,
+h00000,ham,Lunch at the usual place today?,,user0@example.com,-2354,delivery,data theft,no,none,no,
+s00013,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,government,account takeover,no,medium,no,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00003,smishing,FedEx delivery failed. Confirm your details: fedex-confirm.com,fedex-confirm.com,no,no,utility,notification,yes,high,malware,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00016,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,-2370,subscription,data theft,no,high,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00012,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,-2366,subscription,promotion,no,low,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00017,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,utility,reminder,yes,high,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00014,spam,Exclusive deals on supplements! Order now at health-max.com,health-max.com,no,no,subscription,promotion,no,high,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00011,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,retail,account takeover,no,medium,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00019,spam,Exclusive deals on supplements! Order now at health-max.com,health-max.com,no,no,retail,data theft,no,high,no,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+h00009,ham,The report is due by Friday. Please ensure all updates are done.,,user9@example.com,no,bank,reminder,no,none,no,
+s00001,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,delivery,reminder,yes,high,adware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00006,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,social,phishing,no,low,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00012,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,-2366,bank,phishing,yes,low,phishing,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00002,smishing,Your account has been suspended. Reactivate now at secure-login.net.,,no,no,delivery,promotion,yes,low,malware,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+s00015,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,delivery,data theft,no,high,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00002,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,retail,data theft,no,low,no,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+s00008,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,-2362,delivery,data theft,no,high,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00016,ham,Lunch at the usual place today?,,no,-2370,retail,account takeover,no,none,no,
+s00017,spam,Get rich quick with our new crypto scheme! Visit crypto-gainz.com,crypto-gainz.com,no,no,government,promotion,no,low,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00019,ham,Don't forget our meeting at 3 PM.,,no,no,retail,data theft,no,none,no,
+s00000,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,-2354,utility,data theft,no,high,no,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00000,smishing,FedEx delivery failed. Confirm your details: fedex-confirm.com,fedex-confirm.com,no,-2354,bank,phishing,yes,medium,malware,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00003,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,bank,account takeover,no,high,no,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+h00010,ham,I'll be late. Stuck in traffic.,,no,no,government,account takeover,no,none,no,
+s00018,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,bank,phishing,yes,medium,adware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00008,ham,The report is due by Friday. Please ensure all updates are done.,,no,-2362,social,reminder,no,none,no,
+s00018,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,subscription,notification,no,high,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00013,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,bank,data theft,no,none,no,
+s00006,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,social,account takeover,yes,high,phishing,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00006,ham,The report is due by Friday. Please ensure all updates are done.,,user6@example.com,no,subscription,promotion,no,none,no,
+s00005,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,government,account takeover,no,low,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+s00004,spam,Get rich quick with our new crypto scheme! Visit crypto-gainz.com,crypto-gainz.com,no,-2358,government,support,no,medium,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+h00011,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,delivery,reminder,no,none,no,
+h00017,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,delivery,notification,no,none,no,
+h00015,ham,"Hey, can you pick up some milk on your way home?",,user15@example.com,no,utility,account takeover,no,none,no,
+h00002,ham,"Hey, can you pick up some milk on your way home?",,no,no,social,reminder,no,none,no,
+s00037,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,delivery,support,no,medium,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00031,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,subscription,support,no,none,no,
+s00034,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,utility,phishing,no,medium,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00025,ham,Lunch at the usual place today?,,no,no,bank,support,no,none,no,
+s00024,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,-2378,retail,support,no,low,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00030,ham,The report is due by Friday. Please ensure all updates are done.,,user30@example.com,no,social,reminder,no,none,no,
+s00036,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,-2390,retail,reminder,yes,low,malware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00035,ham,Don't forget our meeting at 3 PM.,,no,no,social,promotion,no,none,no,
+s00033,smishing,Your account has been suspended. Reactivate now at secure-login.net.,,no,no,delivery,promotion,yes,high,malware,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+s00025,spam,Exclusive deals on supplements! Order now at health-max.com,health-max.com,no,no,retail,reminder,no,high,no,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00038,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,delivery,data theft,no,low,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00038,ham,I'll be late. Stuck in traffic.,,no,no,bank,reminder,no,none,no,
+s00028,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,-2382,retail,account takeover,yes,low,adware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00038,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,delivery,account takeover,yes,medium,adware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00026,ham,I'll be late. Stuck in traffic.,,no,no,bank,phishing,no,none,no,
+s00032,smishing,Your account has been suspended. Reactivate now at secure-login.net.,,no,-2386,retail,notification,yes,low,adware,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+s00025,smishing,FedEx delivery failed. Confirm your details: fedex-confirm.com,fedex-confirm.com,no,no,utility,promotion,yes,medium,malware,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00028,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,-2382,subscription,account takeover,no,low,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00020,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,-2374,retail,support,yes,high,adware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00021,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,government,reminder,no,medium,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00023,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,government,notification,yes,medium,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00029,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,retail,account takeover,no,high,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00033,ham,"Hey, can you pick up some milk on your way home?",,user33@example.com,no,subscription,support,no,none,no,
+s00039,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,utility,data theft,yes,high,malware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00026,spam,Get rich quick with our new crypto scheme! Visit crypto-gainz.com,crypto-gainz.com,no,no,bank,data theft,no,medium,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00032,ham,Lunch at the usual place today?,,no,-2386,utility,promotion,no,none,no,
+s00035,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,bank,account takeover,no,low,no,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+h00020,ham,The report is due by Friday. Please ensure all updates are done.,,no,-2374,retail,account takeover,no,none,no,
+s00029,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,retail,promotion,yes,high,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00037,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,government,promotion,yes,medium,phishing,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00027,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,bank,promotion,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+h00023,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,utility,phishing,no,none,no,
+s00022,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,retail,support,yes,low,adware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00033,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,delivery,account takeover,no,medium,no,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+s00021,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,subscription,support,yes,medium,malware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00035,smishing,FedEx delivery failed. Confirm your details: fedex-confirm.com,fedex-confirm.com,no,no,delivery,support,yes,low,malware,F3dEx h3@lth 1nsur@nc3 f@1l3d. C0nf1rm y0ur d3t@1ls: f3d3x-c0nf1rm.c0m
+s00036,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,-2390,delivery,reminder,no,high,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00028,ham,The report is due by Friday. Please ensure all updates are done.,,no,-2382,retail,promotion,no,none,no,
+s00023,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,bank,account takeover,no,medium,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00021,ham,Don't forget our meeting at 3 PM.,,user21@example.com,no,retail,data theft,no,none,no,
+s00030,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,no,government,data theft,yes,low,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00024,smishing,Your bank account access is limited. Visit bank-verification-now.com,bank-verification-now.com,no,-2378,subscription,reminder,yes,high,malware,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+h00024,ham,I'll be late. Stuck in traffic.,,user24@example.com,-2378,government,data theft,no,none,no,
+s00032,spam,Get rich quick with our new crypto scheme! Visit crypto-gainz.com,crypto-gainz.com,no,-2386,subscription,account takeover,no,low,no,Y0ur pr0f1l3 h@s b33n susp3nd3d. R3@ct1v@t3 n0w @t s3cur3-s1gn 1n.n3t.
+h00037,ham,I'll be late. Stuck in traffic.,,no,no,subscription,promotion,no,none,no,
+h00039,ham,The report is due by Friday. Please ensure all updates are done.,,user39@example.com,no,bank,notification,no,none,no,
+s00020,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,-2374,delivery,phishing,no,medium,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00034,ham,I'll be late. Stuck in traffic.,,no,no,utility,account takeover,no,none,no,
+h00036,ham,"Hey, can you pick up some milk on your way home?",,user36@example.com,-2390,delivery,reminder,no,none,no,
+h00022,ham,The report is due by Friday. Please ensure all updates are done.,,no,no,subscription,notification,no,none,no,
+s00022,spam,Buy followers and likes at cheap rates! Click here: socialboost-now.net,,no,no,bank,phishing,no,medium,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00031,spam,Hot singles near you are waiting! Check out now: flirtyzone.com,flirtyzone.com,no,no,social,phishing,no,medium,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00029,ham,I'll be late. Stuck in traffic.,,no,no,retail,support,no,none,no,
+s00030,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,delivery,phishing,no,low,no,Y0ur t@x 0ff1c3 pr0f1l3 @cc3ss 1s l1m1t3d. V1s1t t@x 0ff1c3-v3r1f1c@t10n-n0w.c0m
+s00039,spam,Congratulations! You’ve been selected for a luxury cruise. Confirm at luxship.com,luxship.com,no,no,utility,account takeover,no,low,no,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+h00027,ham,The report is due by Friday. Please ensure all updates are done.,,user27@example.com,no,government,data theft,no,none,no,
+s00026,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,retail,notification,yes,low,malware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00034,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,delivery,data theft,yes,low,phishing,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+s00031,smishing,Unusual activity in your PayPal account. Login immediately at secure-paypal-check.com,secure-paypal-check.com,no,no,retail,phishing,yes,low,adware,Unusu@l @ct1v1ty 1n y0ur P@yP@l pr0f1l3. S1gn 1n 1mm3d1@t3ly @t s3cur3-p@yp@l-ch3ck.c0m
+x00000,ham,See you at the meeting tomorrow.,,user0@example.com,no,subscription,data theft,no,none,no,
+x00001,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user1@example.com,-2355,subscription,support,yes,low,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00002,ham,See you at the meeting tomorrow.,,user2@example.com,-2356,subscription,notification,no,none,no,
+x00003,ham,See you at the meeting tomorrow.,,user3@example.com,-2357,retail,promotion,no,none,no,
+x00004,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,retail,support,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00005,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,social,notification,yes,medium,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00006,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,bank,notification,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00007,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user7@example.com,no,bank,notification,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00008,ham,See you at the meeting tomorrow.,,user8@example.com,no,bank,support,no,none,no,
+x00009,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user9@example.com,no,bank,support,yes,high,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00010,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user10@example.com,-2364,bank,promotion,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00011,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,social,data theft,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00012,ham,See you at the meeting tomorrow.,,no,-2366,retail,promotion,no,none,no,
+x00013,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,retail,promotion,yes,medium,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00014,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user14@example.com,-2368,retail,notification,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00015,ham,See you at the meeting tomorrow.,,user15@example.com,no,subscription,support,no,none,no,
+x00016,ham,See you at the meeting tomorrow.,,user16@example.com,-2370,subscription,data theft,no,none,no,
+x00017,ham,See you at the meeting tomorrow.,,no,-2371,retail,data theft,no,none,no,
+x00018,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,retail,notification,yes,medium,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00019,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2373,subscription,promotion,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00020,ham,See you at the meeting tomorrow.,,user20@example.com,-2374,social,promotion,no,none,no,
+x00021,ham,See you at the meeting tomorrow.,,no,no,retail,data theft,no,none,no,
+x00022,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,social,notification,yes,low,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00023,ham,See you at the meeting tomorrow.,,user23@example.com,no,retail,promotion,no,none,no,
+x00024,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user24@example.com,-2378,social,data theft,yes,medium,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00025,ham,See you at the meeting tomorrow.,,user25@example.com,no,subscription,notification,no,none,no,
+x00026,ham,See you at the meeting tomorrow.,,no,-2380,retail,support,no,none,no,
+x00027,ham,See you at the meeting tomorrow.,,user27@example.com,no,bank,support,no,none,no,
+x00028,ham,See you at the meeting tomorrow.,,user28@example.com,no,subscription,data theft,no,none,no,
+x00029,ham,See you at the meeting tomorrow.,,no,no,subscription,data theft,no,none,no,
+x00030,ham,See you at the meeting tomorrow.,,no,no,bank,notification,no,none,no,
+x00031,ham,See you at the meeting tomorrow.,,user31@example.com,-2385,retail,support,no,none,no,
+x00032,ham,See you at the meeting tomorrow.,,user32@example.com,-2386,retail,data theft,no,none,no,
+x00033,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2387,retail,promotion,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00034,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,subscription,data theft,yes,high,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00035,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user35@example.com,-2389,bank,data theft,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00036,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,bank,support,yes,medium,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00037,ham,See you at the meeting tomorrow.,,no,no,social,notification,no,none,no,
+x00038,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user38@example.com,no,bank,notification,yes,medium,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00039,ham,See you at the meeting tomorrow.,,no,-2393,social,notification,no,none,no,
+x00040,ham,See you at the meeting tomorrow.,,no,-2394,social,notification,no,none,no,
+x00041,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,bank,notification,yes,medium,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00042,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2396,social,support,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00043,ham,See you at the meeting tomorrow.,,user43@example.com,no,social,notification,no,none,no,
+x00045,ham,See you at the meeting tomorrow.,,user45@example.com,-2399,subscription,support,no,none,no,
+x00046,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,subscription,notification,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00047,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user47@example.com,no,bank,promotion,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00048,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,-2402,social,promotion,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00049,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user49@example.com,no,retail,promotion,yes,high,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00100,ham,See you at the meeting tomorrow.,,user100@example.com,-2454,bank,promotion,no,none,no,
+x00101,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user101@example.com,-2455,bank,data theft,yes,medium,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00102,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2456,bank,notification,yes,high,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00103,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user103@example.com,no,retail,data theft,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00104,ham,See you at the meeting tomorrow.,,user104@example.com,-2458,subscription,promotion,no,none,no,
+x00105,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user105@example.com,no,social,promotion,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00106,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user106@example.com,no,retail,data theft,yes,low,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00107,ham,See you at the meeting tomorrow.,,no,no,subscription,notification,no,none,no,
+x00108,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user108@example.com,-2462,bank,data theft,yes,high,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00109,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,-2463,bank,support,yes,medium,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00110,ham,See you at the meeting tomorrow.,,user110@example.com,-2464,retail,support,no,none,no,
+x00111,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2465,bank,data theft,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00113,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user113@example.com,-2467,bank,data theft,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00114,ham,See you at the meeting tomorrow.,,user114@example.com,no,retail,data theft,no,none,no,
+x00115,ham,See you at the meeting tomorrow.,,user115@example.com,-2469,retail,support,no,none,no,
+x00116,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2470,social,promotion,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00117,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user117@example.com,no,subscription,data theft,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00118,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,social,data theft,yes,medium,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00119,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,-2473,subscription,data theft,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00120,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,no,retail,data theft,yes,high,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00121,ham,See you at the meeting tomorrow.,,user121@example.com,no,subscription,notification,no,none,no,
+x00124,ham,See you at the meeting tomorrow.,,no,-2478,bank,data theft,no,none,no,
+x00125,ham,See you at the meeting tomorrow.,,no,-2479,social,support,no,none,no,
+x00126,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user126@example.com,-2480,retail,promotion,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00127,ham,See you at the meeting tomorrow.,,user127@example.com,-2481,retail,notification,no,none,no,
+x00128,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2482,subscription,promotion,yes,high,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00129,ham,See you at the meeting tomorrow.,,no,-2483,social,notification,no,none,no,
+x00130,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2484,subscription,data theft,yes,high,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00131,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user131@example.com,no,social,support,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00132,ham,See you at the meeting tomorrow.,,user132@example.com,no,bank,support,no,none,no,
+x00133,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,-2487,social,promotion,yes,low,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00134,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user134@example.com,-2488,subscription,support,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00135,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user135@example.com,no,retail,support,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00136,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,subscription,data theft,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00137,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,no,-2491,social,notification,yes,medium,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00138,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user138@example.com,no,subscription,notification,yes,low,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00139,ham,See you at the meeting tomorrow.,,user139@example.com,-2493,subscription,notification,no,none,no,
+x00140,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user140@example.com,-2494,subscription,support,yes,medium,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00141,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user141@example.com,-2495,subscription,notification,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00142,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,no,no,subscription,data theft,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00143,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user143@example.com,-2497,retail,promotion,yes,low,adware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00144,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user144@example.com,no,subscription,notification,yes,low,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00145,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user145@example.com,no,bank,promotion,yes,low,phishing,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00146,smishing,You've won a $1000 gift card! Claim here: prize-now.com,,user146@example.com,-2500,social,notification,yes,medium,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00147,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user147@example.com,no,social,support,yes,none,no,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00149,smishing,You've won a $1000 gift card! Claim here: prize-now.com,prize-now.com,user149@example.com,no,retail,support,yes,high,malware,Y0u'v3 w0n @ $1000 g1ft c@rd! Cl@1m h3r3: pr1z3-n0w.c0m
+x00150,ham,See you at the meeting tomorrow.,,no,-2504,subscription,support,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00151,ham,See you at the meeting tomorrow.,,user151@example.com,-2505,subscription,data theft,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00152,ham,See you at the meeting tomorrow.,,user152@example.com,no,subscription,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00153,ham,See you at the meeting tomorrow.,,no,no,social,data theft,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00154,ham,See you at the meeting tomorrow.,,user154@example.com,-2508,bank,data theft,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00158,ham,See you at the meeting tomorrow.,,user158@example.com,no,retail,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00160,ham,See you at the meeting tomorrow.,,user160@example.com,no,bank,support,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00165,ham,See you at the meeting tomorrow.,,user165@example.com,no,bank,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00166,ham,See you at the meeting tomorrow.,,user166@example.com,-2520,subscription,notification,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00167,ham,See you at the meeting tomorrow.,,user167@example.com,no,retail,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00168,ham,See you at the meeting tomorrow.,,user168@example.com,-2522,bank,notification,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00170,ham,See you at the meeting tomorrow.,,user170@example.com,-2524,retail,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00172,ham,See you at the meeting tomorrow.,,no,no,subscription,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00174,ham,See you at the meeting tomorrow.,,no,no,retail,support,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00177,ham,See you at the meeting tomorrow.,,no,-2531,subscription,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00179,ham,See you at the meeting tomorrow.,,no,no,social,support,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00182,ham,See you at the meeting tomorrow.,,user182@example.com,-2536,subscription,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00188,ham,See you at the meeting tomorrow.,,user188@example.com,-2542,bank,notification,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00189,ham,See you at the meeting tomorrow.,,no,no,bank,promotion,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00191,ham,See you at the meeting tomorrow.,,no,-2545,social,notification,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00195,ham,See you at the meeting tomorrow.,,no,-2549,social,data theft,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00197,ham,See you at the meeting tomorrow.,,no,-2551,retail,support,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+x00199,ham,See you at the meeting tomorrow.,,no,no,retail,notification,no,none,no,S33 y0u @t th3 m33t1ng t0m0rr0w.
+non-smishing,"Hi, this is a reminder for your appointment at Blair-Haynes on 2012-04-23.",no,vaughnmelanie@gmail.com,no,app,notification,no,none,none,no,n0
+smishing,"Collins, Williams and Ferguson requires immediate verification of your account. Visit http://yates.net/ or call 112.500.0114x83548.",http://www.dominguez-gardner.org/,rpeterson@jones.org,no,whatsapp,malware,yes,high,phishing_site,no,http://www.d0m1ngu3z-g@rdn3r.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Thomas, Lynch and Smith on 1972-05-28.",http://www.garcia.com/,lwilliams@pearson.com,no,sms,notification,no,none,none,no,http://www.g@rc1@.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Foster, Nguyen and Howell on 2001-10-14.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Clark-Vargas requires immediate verification of your account. Visit http://www.kelly.info/ or call 847.472.0196x11432.,http://morgan.com/,no,no,whatsapp,scam,yes,critical,phishing_site,no,http://m0rg@n.c0m/
+smishing,"Johnson, Smith and Welch requires immediate verification of your account. Visit http://www.brown-floyd.com/ or call +1-153-445-1771x5521.",https://hatfield.com/,no,-9023,telegram,scam,yes,critical,malware_app,no,https://h@tf13ld.c0m/
+smishing,"Turner, Sanders and Scott requires immediate verification of your account. Visit http://cook.com/ or call 659-704-6618x22059.",no,ecampos@waters.net,+1-443-047-2414x776,telegram,phishing,yes,high,malware_app,no,n0
+smishing,Barnes Group requires immediate verification of your account. Visit https://www.martin-bautista.com/ or call 285-811-1745x723.,https://www.garcia-bowen.com/,no,001-633-274-6111,sms,malware,yes,high,fraudulent_entity,no,https://www.g@rc1@-b0w3n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Booker, Brown and King on 1988-09-21.",no,masonchristopher@perry-johnson.net,+1-452-160-8524x4925,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Griffin-Campbell on 2014-04-09.",http://herrera.com/,tgarrett@pruitt.info,no,email,notification,no,none,none,no,http://h3rr3r@.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Ryan, Singh and Pierce on 1970-01-15.",no,williamsamber@yoder.net,2875535420,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Miller PLC on 2016-01-30.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Reed-Garcia requires immediate verification of your account. Visit https://mclaughlin.com/ or call 835-987-4456.,https://george-walker.com/,thomas83@hotmail.com,001-656-022-5476x216,whatsapp,scam,yes,high,fraudulent_entity,no,https://g30rg3-w@lk3r.c0m/
+smishing,"Gilmore, Dunn and Cummings requires immediate verification of your account. Visit https://www.coleman-gray.net/ or call 891.753.3880x2537.",no,no,-10685,whatsapp,data theft,yes,critical,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Harris, Powell and Cohen on 2014-11-21.",https://www.harris-schmidt.info/,no,no,email,notification,no,none,none,no,https://www.h@rr1s-schm1dt.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Clark, Cruz and Wilson on 1990-06-06.",no,no,no,app,notification,no,none,none,no,n0
+smishing,"Green, Watkins and Martin requires immediate verification of your account. Visit https://kramer-hoover.net/ or call 001-543-995-3175x4458.",http://lindsey.biz/,matthew01@ramirez.com,+1-191-475-3534x24920,sms,malware,yes,critical,fraudulent_entity,no,http://l1nds3y.b1z/
+smishing,Scott Inc requires immediate verification of your account. Visit http://evans.com/ or call 190.443.2127x831.,https://larsen.com/,no,no,telegram,scam,yes,critical,fraudulent_entity,no,https://l@rs3n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Herrera PLC on 1987-10-07.",no,fcruz@carroll.com,351.469.2690x9293,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Kelley, Munoz and Oconnor on 1970-12-09.",no,ijohnson@hotmail.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Weiss-Ellis on 2021-02-05.",no,maxwell50@gmail.com,(125)002-6652x7881,sms,notification,no,none,none,no,n0
+smishing,"Tate, Hawkins and Gregory requires immediate verification of your account. Visit https://richards-christian.com/ or call 224.785.7524x2702.",no,davidwilliams@hotmail.com,no,telegram,phishing,yes,high,fraudulent_entity,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Yoder, Terry and Vance on 1978-10-07.",no,no,+1-534-483-2483x6675,email,notification,no,none,none,no,n0
+smishing,Gaines Group requires immediate verification of your account. Visit https://duffy.biz/ or call +1-643-651-1050x6259.,https://johnson.net/,obrooks@stephens.com,(005)866-7790x768,whatsapp,scam,yes,critical,phishing_site,no,https://j0hns0n.n3t/
+smishing,"Velasquez, Stone and Griffin requires immediate verification of your account. Visit http://www.solis-briggs.net/ or call 001-742-100-4279x06679.",http://carter.com/,no,(366)491-3638x403,telegram,phishing,yes,critical,fraudulent_entity,no,http://c@rt3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Green-Thompson on 2003-10-18.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Miller-Delacruz requires immediate verification of your account. Visit http://www.jacobs.org/ or call 051.966.6795x2558.,http://webb.com/,keithmarissa@rodriguez-miller.net,(696)018-8829x753,telegram,phishing,yes,critical,fraudulent_entity,no,http://w3bb.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Gonzalez Ltd on 1999-02-07.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Wright-Romero on 1987-07-03.",no,no,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Moore LLC on 2024-04-22.",http://brown.com/,no,+1-169-487-9430x518,sms,notification,no,none,none,no,http://br0wn.c0m/
+smishing,"Francis, Thomas and Ramirez requires immediate verification of your account. Visit http://www.owens.com/ or call (321)682-5977x32663.",no,michael44@williams-camacho.com,6084412471,telegram,phishing,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Larson, Smith and Zamora on 1996-12-08.",no,no,321.458.3629,email,notification,no,none,none,no,n0
+smishing,Reese-Evans requires immediate verification of your account. Visit http://santiago.com/ or call 029.781.0897x924.,http://massey.info/,erintodd@franklin.com,001-015-721-2772x5591,whatsapp,scam,yes,high,malware_app,no,http://m@ss3y.1nf0/
+smishing,Williams-Braun requires immediate verification of your account. Visit http://www.jimenez-greer.org/ or call 932.176.3629x36472.,https://www.price.com/,no,504-027-9248x2481,telegram,phishing,yes,critical,phishing_site,no,https://www.pr1c3.c0m/
+smishing,Ramsey-Riley requires immediate verification of your account. Visit http://www.cook.net/ or call 3304674657.,no,courtney02@yahoo.com,no,telegram,malware,yes,high,phishing_site,no,n0
+smishing,Chavez PLC requires immediate verification of your account. Visit http://www.patterson.biz/ or call +1-903-714-4974x894.,no,diane43@gmail.com,097.298.6162x03735,telegram,malware,yes,critical,phishing_site,no,n0
+smishing,Fletcher-Rios requires immediate verification of your account. Visit https://www.edwards.com/ or call 001-302-442-6554x34832.,http://ward.com/,amiller@yahoo.com,no,telegram,phishing,yes,critical,malware_app,no,http://w@rd.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Anderson, Smith and Smith on 2013-10-28.",no,ggonzalez@gmail.com,912-360-6353x34323,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Horne Ltd on 2006-01-19.",http://www.kelly.org/,dpadilla@hull.biz,+1-907-263-0487x391,sms,notification,no,none,none,no,http://www.k3lly.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Smith and Sons on 2023-01-09.",no,no,(997)393-6261,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Harris-Elliott on 1985-06-06.",no,no,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Huynh Group on 2000-02-02.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Hamilton-Gomez requires immediate verification of your account. Visit https://joseph-wallace.com/ or call 283.069.4502x0296.,http://www.bradford.org/,no,707-747-1478x58419,whatsapp,phishing,yes,critical,malware_app,no,http://www.br@df0rd.0rg/
+smishing,Kidd-Rivera requires immediate verification of your account. Visit http://watkins-melendez.com/ or call 968.432.0276x5119.,http://www.johnson-smith.com/,bowmankimberly@hotmail.com,(223)263-2171,telegram,malware,yes,critical,fraudulent_entity,no,http://www.j0hns0n-sm1th.c0m/
+smishing,"Bates, Davis and Hall requires immediate verification of your account. Visit http://www.sexton.com/ or call 001-797-183-2876x037.",no,roblesshawn@barrett-scott.info,+1-182-896-1529x3973,sms,phishing,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Butler Ltd on 2009-05-04.",no,robertwiley@jennings.net,no,app,notification,no,none,none,no,n0
+smishing,Brown-Rose requires immediate verification of your account. Visit https://www.burgess-smith.com/ or call 779.828.2661.,http://hawkins-fox.com/,fquinn@simmons-hutchinson.com,(673)494-7850x08699,sms,phishing,yes,critical,phishing_site,no,http://h@wk1ns-f0x.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Richard, Bailey and Bell on 2015-07-23.",https://ballard.net/,karennewton@gmail.com,no,sms,notification,no,none,none,no,https://b@ll@rd.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Jones, Bryant and Garner on 1986-11-26.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Smith LLC requires immediate verification of your account. Visit http://williams-ball.net/ or call (235)125-7903.,no,no,no,whatsapp,scam,yes,critical,phishing_site,no,n0
+smishing,Herring-Watson requires immediate verification of your account. Visit https://hoover.com/ or call +1-673-903-7711x2397.,no,no,642-778-4417x2982,sms,data theft,yes,critical,phishing_site,no,n0
+smishing,Bates and Sons requires immediate verification of your account. Visit http://www.ellis-carter.info/ or call 001-329-058-0748x4112.,no,christopherkeith@yahoo.com,no,telegram,data theft,yes,critical,phishing_site,no,n0
+smishing,Lewis and Sons requires immediate verification of your account. Visit https://www.hayes.com/ or call 6744390849.,http://www.diaz.org/,hunttimothy@marshall.com,no,whatsapp,data theft,yes,critical,malware_app,no,http://www.d1@z.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Mcgrath, Nguyen and Mata on 2013-05-18.",no,no,741.204.0592x68045,email,notification,no,none,none,no,n0
+smishing,Maldonado Ltd requires immediate verification of your account. Visit https://www.williams.biz/ or call 8641792553.,no,no,no,telegram,malware,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Rowland PLC on 2009-06-17.",no,leeheather@perez-vincent.org,4291339441,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Cardenas-Jones on 1993-11-12.",no,cassandra83@roberts.net,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Tucker Group on 2016-01-17.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hamilton Group on 2007-07-28.",no,rogerskayla@hotmail.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Jones Ltd on 1996-09-22.",https://brown-lara.com/,no,no,app,notification,no,none,none,no,https://br0wn-l@r@.c0m/
+smishing,Jones Group requires immediate verification of your account. Visit http://www.martinez.com/ or call 001-513-391-6899x352.,http://santos.com/,ohebert@hotmail.com,+1-213-675-7562x919,whatsapp,phishing,yes,critical,fraudulent_entity,no,http://s@nt0s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Osborn, Nguyen and Ryan on 2010-03-29.",no,no,no,email,notification,no,none,none,no,n0
+smishing,"Morgan, King and Hall requires immediate verification of your account. Visit https://www.garcia.org/ or call (332)504-0742.",http://grant.com/,porterkeith@allison.com,1119748596,whatsapp,malware,yes,high,malware_app,no,http://gr@nt.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Alvarez-Robertson on 2022-07-04.",no,matthew48@richards.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Conrad-Gardner on 1984-06-06.",no,no,no,app,notification,no,none,none,no,n0
+smishing,"Ortiz, Cortez and Edwards requires immediate verification of your account. Visit https://valenzuela.org/ or call (218)907-1839x01188.",http://www.hess-gonzales.com/,no,+1-872-583-4410x320,sms,phishing,yes,critical,malware_app,no,http://www.h3ss-g0nz@l3s.c0m/
+smishing,Kerr LLC requires immediate verification of your account. Visit https://www.brown.biz/ or call 862-687-7097.,http://www.schaefer.com/,ericksonjim@becker.net,no,sms,scam,yes,high,phishing_site,no,http://www.sch@3f3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Brown, Fuller and Wagner on 2016-10-14.",no,no,(927)402-9845x5034,app,notification,no,none,none,no,n0
+smishing,Meyer-Mendez requires immediate verification of your account. Visit http://anderson-kent.net/ or call (178)581-0885x7304.,https://brewer.net/,jessicaestes@gmail.com,no,sms,phishing,yes,high,phishing_site,no,https://br3w3r.n3t/
+smishing,Bullock LLC requires immediate verification of your account. Visit http://www.russell.com/ or call (282)210-2820x0287.,http://martin.org/,tyronewallace@jones.com,no,telegram,scam,yes,high,phishing_site,no,http://m@rt1n.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at King-Hernandez on 1987-11-04.",no,matthewcarroll@hotmail.com,136.828.5630x028,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Turner-Zimmerman on 1970-06-10.",http://www.newton.com/,no,no,email,notification,no,none,none,no,http://www.n3wt0n.c0m/
+smishing,Mcclain and Sons requires immediate verification of your account. Visit https://www.jackson.com/ or call (687)482-7341x583.,http://www.pham-price.info/,johnathancollins@gmail.com,no,telegram,scam,yes,high,malware_app,no,http://www.ph@m-pr1c3.1nf0/
+smishing,Alvarez Group requires immediate verification of your account. Visit https://phillips.com/ or call 273-937-8549.,http://dixon.com/,michael46@poole.org,5059192704,telegram,malware,yes,critical,malware_app,no,http://d1x0n.c0m/
+smishing,Mitchell-Harvey requires immediate verification of your account. Visit https://lopez-gonzales.com/ or call (774)807-9775.,http://www.hodges.biz/,nicolemaldonado@gaines.org,896-476-8431x99822,whatsapp,data theft,yes,high,phishing_site,no,http://www.h0dg3s.b1z/
+smishing,Diaz and Sons requires immediate verification of your account. Visit http://www.nichols-bryant.com/ or call (647)486-1997x23905.,https://www.stephens-rose.com/,no,+1-489-943-7311x90699,telegram,scam,yes,critical,fraudulent_entity,no,https://www.st3ph3ns-r0s3.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Ferguson Group on 2016-10-18.",no,no,129-467-4040,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Duran-Mitchell on 1972-09-19.",http://www.jones.com/,dicksonapril@dalton-carter.info,091.476.4967,email,notification,no,none,none,no,http://www.j0n3s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Smith-Murphy on 1977-05-06.",http://hall.com/,no,no,app,notification,no,none,none,no,http://h@ll.c0m/
+smishing,"Brock, Parks and Barron requires immediate verification of your account. Visit http://www.walls-scott.com/ or call 001-822-739-6710x275.",https://mason.net/,alexandriasoto@phillips.com,no,telegram,scam,yes,high,malware_app,no,https://m@s0n.n3t/
+smishing,Owens and Sons requires immediate verification of your account. Visit https://www.abbott.com/ or call 863.601.8594.,http://hancock.biz/,kevin08@hotmail.com,no,telegram,phishing,yes,critical,fraudulent_entity,no,http://h@nc0ck.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Page, Bonilla and Stanley on 1983-08-27.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Soto Ltd on 2007-12-31.",no,no,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Marquez-Newton on 2022-08-08.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Hunter, Parker and Mcdonald requires immediate verification of your account. Visit https://www.carpenter-mccormick.com/ or call 612-095-6796.",https://randall.info/,margaret08@walker-herrera.net,no,sms,scam,yes,critical,phishing_site,no,https://r@nd@ll.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Franco-Phillips on 1971-07-15.",no,no,789.235.3522x9325,sms,notification,no,none,none,no,n0
+smishing,Jacobs PLC requires immediate verification of your account. Visit https://bullock.info/ or call 743-833-0254.,no,iwest@acosta.info,043-774-5662x910,sms,malware,yes,critical,fraudulent_entity,no,n0
+smishing,Moore-Harris requires immediate verification of your account. Visit http://www.lewis.com/ or call +1-418-583-1363x20890.,no,deanna78@hotmail.com,001-849-646-6496x26044,sms,malware,yes,critical,malware_app,no,n0
+smishing,Wright-Alexander requires immediate verification of your account. Visit http://villarreal.org/ or call 1549437943.,https://www.solis.info/,carrolljodi@hotmail.com,no,telegram,scam,yes,high,phishing_site,no,https://www.s0l1s.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Moore LLC on 2014-06-08.",no,yhernandez@good.com,564-670-5478x0340,email,notification,no,none,none,no,n0
+smishing,Hansen LLC requires immediate verification of your account. Visit http://www.hill.com/ or call 001-019-396-3089.,no,moralesjohn@potts.biz,910.174.5310x854,sms,phishing,yes,critical,fraudulent_entity,no,n0
+smishing,Miller LLC requires immediate verification of your account. Visit http://jones.com/ or call 001-678-264-3432x408.,http://www.duarte.com/,ymckinney@cooper-graham.com,no,telegram,malware,yes,high,phishing_site,no,http://www.du@rt3.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Bennett-Hernandez on 1998-02-17.",no,afoley@rice.com,045.393.7607x41108,email,notification,no,none,none,no,n0
+smishing,Flynn-Atkins requires immediate verification of your account. Visit https://www.davis-carroll.com/ or call (090)984-1666x87310.,no,no,(939)026-0153,sms,phishing,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Lee Ltd on 1989-11-03.",no,no,(116)763-2074x53112,email,notification,no,none,none,no,n0
+smishing,"Chang, Pugh and Barry requires immediate verification of your account. Visit http://gonzalez.com/ or call +1-675-821-6891x6345.",http://www.porter.com/,no,no,telegram,malware,yes,critical,fraudulent_entity,no,http://www.p0rt3r.c0m/
+smishing,Mora-Garrison requires immediate verification of your account. Visit https://www.kelly.net/ or call 212-999-0275.,https://www.glass.net/,no,(077)102-9902x210,whatsapp,phishing,yes,critical,phishing_site,no,https://www.gl@ss.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Bailey-Evans on 1985-07-08.",no,kcarroll@yahoo.com,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Garcia, Allen and White on 2018-03-26.",https://watts-steele.biz/,lanewanda@yahoo.com,no,sms,notification,no,none,none,no,https://w@tts-st33l3.b1z/
+smishing,Gonzalez and Sons requires immediate verification of your account. Visit http://www.lopez-allen.biz/ or call 627.713.1395.,http://www.stephens.biz/,matthewhernandez@wiggins.com,825.282.1449,whatsapp,scam,yes,critical,malware_app,no,http://www.st3ph3ns.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Cordova PLC on 1995-07-08.",https://www.suarez.com/,christinetucker@davis-butler.biz,no,sms,notification,no,none,none,no,https://www.su@r3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Krueger-Zimmerman on 1972-11-29.",no,no,191-595-1588x7372,app,notification,no,none,none,no,n0
+smishing,"Nguyen, Shelton and Murphy requires immediate verification of your account. Visit https://jacobs-martin.org/ or call 0259700217.",http://www.silva.org/,cwilliams@hotmail.com,-7921,sms,data theft,yes,high,malware_app,no,http://www.s1lv@.0rg/
+smishing,Johnson PLC requires immediate verification of your account. Visit http://mosley.com/ or call 115-762-8268.,http://ryan.info/,no,750.026.7156x4549,sms,phishing,yes,critical,phishing_site,no,http://ry@n.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Ball-Collins on 1984-04-22.",https://robinson.com/,no,350.269.7648x06347,sms,notification,no,none,none,no,https://r0b1ns0n.c0m/
+smishing,"Franklin, Calderon and Harrington requires immediate verification of your account. Visit http://www.rangel.com/ or call +1-633-271-4367x655.",http://mann.com/,jhendricks@gutierrez-owens.com,735.989.0339x386,telegram,scam,yes,high,fraudulent_entity,no,http://m@nn.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Carter LLC on 1972-09-07.",no,christiandawn@cox.com,(368)435-1337x464,sms,notification,no,none,none,no,n0
+smishing,Thompson-White requires immediate verification of your account. Visit https://hawkins.info/ or call 7012850491.,https://www.nguyen.net/,jlam@yahoo.com,001-399-193-6055x520,telegram,scam,yes,critical,phishing_site,no,https://www.nguy3n.n3t/
+smishing,Woodward-Nichols requires immediate verification of your account. Visit http://www.hart.com/ or call 660-245-1206x871.,http://www.barker-smith.com/,csmith@waters.com,no,whatsapp,phishing,yes,high,fraudulent_entity,no,http://www.b@rk3r-sm1th.c0m/
+smishing,Horton-Lee requires immediate verification of your account. Visit https://alexander.com/ or call 765-437-5649.,http://reilly.com/,amy92@shaw.com,519.284.5559,whatsapp,scam,yes,high,fraudulent_entity,no,http://r31lly.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Reed and Sons on 2003-11-17.",http://www.rodgers.com/,alexanderwolf@floyd-moody.com,no,sms,notification,no,none,none,no,http://www.r0dg3rs.c0m/
+smishing,Robinson PLC requires immediate verification of your account. Visit http://perez.biz/ or call +1-446-170-2031x113.,http://www.kelly.org/,riverachristopher@yahoo.com,001-556-458-1515,sms,phishing,yes,high,malware_app,no,http://www.k3lly.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Lee PLC on 2017-09-03.",http://fischer.com/,no,001-538-159-5300x5214,email,notification,no,none,none,no,http://f1sch3r.c0m/
+smishing,Rogers LLC requires immediate verification of your account. Visit http://www.oconnor.com/ or call 4851697532.,https://tate.com/,markcoleman@thompson.org,087-445-0885x79895,telegram,data theft,yes,high,fraudulent_entity,no,https://t@t3.c0m/
+smishing,"Johnson, Cole and Johnson requires immediate verification of your account. Visit https://www.park.org/ or call 001-077-826-0103x07492.",http://crawford-bishop.com/,no,(209)941-8655,sms,malware,yes,high,fraudulent_entity,no,http://cr@wf0rd-b1sh0p.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Martinez, Jones and Wilson on 1995-12-31.",no,no,8275226057,email,notification,no,none,none,no,n0
+smishing,"Allen, Cooley and Perez requires immediate verification of your account. Visit http://www.martin-monroe.com/ or call 8663985767.",http://www.hicks.com/,no,+1-680-210-8530x44999,sms,data theft,yes,high,phishing_site,no,http://www.h1cks.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Murray-Parks on 2012-04-29.",no,no,+1-449-240-5834x187,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Bennett, Franklin and Montgomery on 2012-05-12.",no,no,6556457183,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Huber, Huff and Gilmore on 1986-09-29.",http://www.anderson.com/,johnshaffer@gmail.com,no,sms,notification,no,none,none,no,http://www.@nd3rs0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Green Group on 2024-01-05.",no,no,no,app,notification,no,none,none,no,n0
+smishing,"Jones, Young and Henderson requires immediate verification of your account. Visit http://www.nguyen-anderson.com/ or call 001-282-301-4392x6330.",https://www.callahan.biz/,no,no,telegram,phishing,yes,critical,phishing_site,no,https://www.c@ll@h@n.b1z/
+smishing,Wagner-Ewing requires immediate verification of your account. Visit http://www.fletcher-krause.com/ or call 109.156.7228.,https://www.mercer.info/,williamsjulie@gmail.com,no,whatsapp,data theft,yes,high,malware_app,no,https://www.m3rc3r.1nf0/
+smishing,Henderson-Holland requires immediate verification of your account. Visit http://www.hampton-morse.com/ or call 001-560-470-4566.,no,melvinmay@yahoo.com,no,whatsapp,scam,yes,high,fraudulent_entity,no,n0
+smishing,Wright and Sons requires immediate verification of your account. Visit https://www.larsen-howard.com/ or call 1040052442.,https://www.walters.com/,oatkinson@stone.com,no,sms,malware,yes,high,phishing_site,no,https://www.w@lt3rs.c0m/
+smishing,Reyes-Baxter requires immediate verification of your account. Visit https://wright-gregory.com/ or call 197-434-3328.,https://hernandez.com/,longjeremy@turner.com,817.125.1015x45063,telegram,phishing,yes,high,phishing_site,no,https://h3rn@nd3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Prince-Johns on 2000-12-25.",http://www.carlson.com/,no,no,app,notification,no,none,none,no,http://www.c@rls0n.c0m/
+smishing,"Schaefer, Santiago and Rollins requires immediate verification of your account. Visit http://www.quinn.biz/ or call (233)129-1154x82178.",no,fparker@ortiz.com,480272576,telegram,malware,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Townsend, Perez and Anderson on 2013-08-20.",no,gabriella24@yahoo.com,no,app,notification,no,none,none,no,n0
+smishing,"Martin, Tran and Smith requires immediate verification of your account. Visit https://www.davidson.com/ or call 001-797-496-7933.",http://graham.com/,cherylmiller@brown-moore.com,-2461,whatsapp,data theft,yes,high,fraudulent_entity,no,http://gr@h@m.c0m/
+smishing,Buckley and Sons requires immediate verification of your account. Visit http://thomas.com/ or call 725.384.9934.,http://riley.com/,no,001-532-385-9935x046,telegram,data theft,yes,critical,malware_app,no,http://r1l3y.c0m/
+smishing,Smith-Clark requires immediate verification of your account. Visit https://www.clark-wilson.com/ or call 441.495.9682.,no,brownteresa@yahoo.com,no,sms,data theft,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Thompson, Washington and Grant on 1978-09-07.",http://powers.net/,no,+1-395-600-5775x9994,app,notification,no,none,none,no,http://p0w3rs.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Jackson-Mckee on 2008-09-06.",no,no,507.843.7447x538,app,notification,no,none,none,no,n0
+smishing,Monroe PLC requires immediate verification of your account. Visit http://www.hernandez-mathis.com/ or call 294-364-8288x51592.,http://garcia.net/,no,no,sms,malware,yes,high,malware_app,no,http://g@rc1@.n3t/
+smishing,Shannon PLC requires immediate verification of your account. Visit http://www.jones.com/ or call 703-109-0144.,http://www.brooks.biz/,no,001-200-650-4426,telegram,scam,yes,critical,malware_app,no,http://www.br00ks.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Rojas Inc on 2006-02-14.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Gilbert-Rivera requires immediate verification of your account. Visit http://www.turner.com/ or call 320.908.6589.,http://sandoval-gordon.com/,no,no,sms,phishing,yes,high,phishing_site,no,http://s@nd0v@l-g0rd0n.c0m/
+smishing,Matthews-Krueger requires immediate verification of your account. Visit https://www.weeks.org/ or call (321)900-5818x606.,http://www.garcia-conley.net/,gthompson@smith.com,no,sms,scam,yes,critical,fraudulent_entity,no,http://www.g@rc1@-c0nl3y.n3t/
+smishing,Sutton PLC requires immediate verification of your account. Visit https://hodge.com/ or call +1-175-949-9710x894.,http://www.oneal.info/,laurie11@pacheco-hansen.info,6208047366,whatsapp,phishing,yes,critical,malware_app,no,http://www.0n3@l.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Davis-Cabrera on 1973-07-28.",http://hill.com/,no,603-767-9596x873,sms,notification,no,none,none,no,http://h1ll.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Martinez-Vazquez on 1988-03-21.",no,udiaz@parker-austin.com,(971)781-7754x749,sms,notification,no,none,none,no,n0
+smishing,"Cox, Austin and Morrow requires immediate verification of your account. Visit https://robinson.com/ or call 159-174-4431x2076.",no,torresrobert@ruiz.com,001-710-582-2084,whatsapp,data theft,yes,high,malware_app,no,n0
+smishing,Cross Group requires immediate verification of your account. Visit https://cannon.com/ or call 001-780-189-6565x44414.,http://www.cunningham-daniels.com/,ryan76@hotmail.com,(787)026-9492x614,sms,data theft,yes,high,phishing_site,no,http://www.cunn1ngh@m-d@n13ls.c0m/
+smishing,Leon-Wright requires immediate verification of your account. Visit http://www.schultz.biz/ or call 001-904-977-9144x6467.,http://www.hill.com/,no,772.408.4066,telegram,malware,yes,high,malware_app,no,http://www.h1ll.c0m/
+smishing,Moore Group requires immediate verification of your account. Visit http://www.king-hoffman.net/ or call 765-436-2201x045.,https://www.bradford-ruiz.net/,scortez@campbell.com,+1-207-388-1015x947,sms,data theft,yes,critical,fraudulent_entity,no,https://www.br@df0rd-ru1z.n3t/
+smishing,"Cantrell, White and Murray requires immediate verification of your account. Visit http://cuevas.com/ or call 603-542-9966.",no,tommymccormick@stout.com,no,telegram,data theft,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hahn, Peters and Reyes on 1972-08-20.",no,kyle71@thompson.com,-4740,email,notification,no,none,none,no,n0
+smishing,Petersen Group requires immediate verification of your account. Visit http://www.weber-garcia.com/ or call 649.203.1945x58337.,http://brown.com/,justinramirez@yahoo.com,409.007.5781,whatsapp,phishing,yes,high,malware_app,no,http://br0wn.c0m/
+smishing,Diaz-Carlson requires immediate verification of your account. Visit http://www.craig.com/ or call 9058217097.,http://gentry-edwards.com/,no,001-546-024-4135x813,telegram,phishing,yes,high,phishing_site,no,http://g3ntry-3dw@rds.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Lewis-Evans on 1989-03-08.",no,no,001-802-912-7257x73156,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Harding, Mitchell and Lewis on 1975-04-12.",no,david18@macias-clark.com,254.136.9843x28118,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Wright PLC on 2022-01-15.",no,stacey04@york-reynolds.com,(483)617-4764x1761,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Lang-Swanson on 1999-03-03.",no,no,1002116094,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Stewart PLC on 2012-06-02.",https://www.cordova.info/,martinezlaurie@gmail.com,no,sms,notification,no,none,none,no,https://www.c0rd0v@.1nf0/
+smishing,Miller-Cortez requires immediate verification of your account. Visit http://glass.com/ or call 772-626-3949x1367.,no,no,001-189-464-6062x7827,whatsapp,malware,yes,high,fraudulent_entity,no,n0
+smishing,"Pollard, Nichols and Vasquez requires immediate verification of your account. Visit https://www.navarro.com/ or call 403.091.7923.",http://www.clark-hernandez.com/,mdavis@gmail.com,(981)364-2330,whatsapp,data theft,yes,high,fraudulent_entity,no,http://www.cl@rk-h3rn@nd3z.c0m/
+smishing,Smith-Sheppard requires immediate verification of your account. Visit https://www.joyce.net/ or call 001-706-546-2773x048.,http://blankenship.com/,no,no,sms,malware,yes,high,phishing_site,no,http://bl@nk3nsh1p.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Mcneil, Hill and Strong on 2014-02-15.",http://www.cole-bowman.net/,jasonnichols@guerrero.com,no,sms,notification,no,none,none,no,http://www.c0l3-b0wm@n.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Fowler PLC on 2022-08-14.",no,mallory88@hotmail.com,no,sms,notification,no,none,none,no,n0
+smishing,"Thomas, Walsh and Maldonado requires immediate verification of your account. Visit http://www.hudson-marshall.info/ or call 414.426.9170.",https://www.stewart.biz/,no,no,telegram,phishing,yes,high,phishing_site,no,https://www.st3w@rt.b1z/
+smishing,Barnes Ltd requires immediate verification of your account. Visit http://jimenez-wilkins.com/ or call +1-873-267-8675x934.,https://www.rangel-greene.com/,no,(055)096-3193,telegram,malware,yes,high,malware_app,no,https://www.r@ng3l-gr33n3.c0m/
+smishing,"Barrett, Blankenship and Humphrey requires immediate verification of your account. Visit http://brown.info/ or call 807.651.2541x5392.",https://baker-baker.com/,no,001-542-412-5372,whatsapp,malware,yes,critical,phishing_site,no,https://b@k3r-b@k3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Hughes-Cervantes on 1998-12-20.",no,no,no,app,notification,no,none,none,no,n0
+smishing,"Jackson, Kim and Ramirez requires immediate verification of your account. Visit http://neal.com/ or call 784-931-0255.",http://west-harding.biz/,no,no,telegram,data theft,yes,critical,malware_app,no,http://w3st-h@rd1ng.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Erickson Ltd on 1995-10-08.",no,no,-6824,email,notification,no,none,none,no,n0
+smishing,Price Inc requires immediate verification of your account. Visit https://davis.com/ or call +1-937-297-2192x713.,http://www.brown.net/,whitepedro@frederick.biz,no,sms,data theft,yes,critical,malware_app,no,http://www.br0wn.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Snow-Sanders on 2009-07-09.",https://mclaughlin.com/,no,439.358.8495,email,notification,no,none,none,no,https://mcl@ughl1n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Rodriguez-Clark on 1985-05-15.",http://www.morris.com/,fjoyce@yahoo.com,(828)402-1204x497,email,notification,no,none,none,no,http://www.m0rr1s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Miranda Group on 2020-12-22.",https://www.palmer.org/,no,no,sms,notification,no,none,none,no,https://www.p@lm3r.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Russell-Hayden on 2014-05-31.",no,barrettjoanne@gmail.com,528.705.8158x072,email,notification,no,none,none,no,n0
+smishing,Stark Group requires immediate verification of your account. Visit http://www.martinez.org/ or call (105)667-4832x35230.,http://guerrero-finley.org/,tashaholland@yahoo.com,no,sms,data theft,yes,critical,fraudulent_entity,no,http://gu3rr3r0-f1nl3y.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Ferrell, Hatfield and Foley on 1977-04-01.",no,no,190-533-5056x102,sms,notification,no,none,none,no,n0
+smishing,Williams and Sons requires immediate verification of your account. Visit http://www.fisher.org/ or call 001-299-632-1670x611.,https://mcdonald-anderson.biz/,no,+1-916-562-9189x12215,telegram,malware,yes,high,fraudulent_entity,no,https://mcd0n@ld-@nd3rs0n.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Jones PLC on 2000-05-23.",no,laurajohnson@burton-gross.com,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Silva, Salazar and Johnson on 2019-09-02.",http://black-adams.com/,no,no,sms,notification,no,none,none,no,http://bl@ck-@d@ms.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Kaufman LLC on 2021-01-23.",http://www.williams-morgan.biz/,adam34@young-massey.com,+1-849-240-3162x87459,email,notification,no,none,none,no,http://www.w1ll1@ms-m0rg@n.b1z/
+smishing,Campbell-Stanley requires immediate verification of your account. Visit http://clark.net/ or call (752)537-5161.,http://patterson.com/,no,187-193-8618,sms,phishing,yes,critical,phishing_site,no,http://p@tt3rs0n.c0m/
+smishing,"Moore, Anderson and Cochran requires immediate verification of your account. Visit http://phillips.org/ or call +1-879-619-7432x54451.",http://www.aguilar.com/,no,+1-330-415-8094x9459,sms,phishing,yes,critical,fraudulent_entity,no,http://www.@gu1l@r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Porter, Romero and Ortiz on 2008-04-25.",no,rdunn@paul.com,017-027-0690x49649,app,notification,no,none,none,no,n0
+smishing,Suarez-Graham requires immediate verification of your account. Visit http://www.hicks.com/ or call +1-015-825-9963x5899.,no,joseph26@hopkins.info,(763)592-2368x56386,sms,malware,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Adams, Fuller and Mitchell on 1999-07-13.",no,maryruiz@yahoo.com,no,email,notification,no,none,none,no,n0
+smishing,"Allen, Flowers and Miller requires immediate verification of your account. Visit https://werner.com/ or call (440)864-4350x856.",https://meyer.biz/,anitarandolph@yahoo.com,+1-374-552-4972x4742,telegram,data theft,yes,critical,phishing_site,no,https://m3y3r.b1z/
+smishing,Romero Group requires immediate verification of your account. Visit http://www.morris.net/ or call 198.719.0954x759.,https://wilson.com/,no,001-845-564-1953x4061,telegram,scam,yes,critical,malware_app,no,https://w1ls0n.c0m/
+smishing,"Mitchell, Brown and Jimenez requires immediate verification of your account. Visit https://www.smith.biz/ or call 063-430-1753.",https://villarreal-rodriguez.biz/,amy62@hotmail.com,no,telegram,scam,yes,critical,malware_app,no,https://v1ll@rr3@l-r0dr1gu3z.b1z/
+smishing,Houston-Newman requires immediate verification of your account. Visit https://www.silva-robertson.com/ or call 001-662-625-5196x487.,http://www.bryant-rocha.org/,zsmith@rivers-jackson.com,001-182-677-9477x752,sms,malware,yes,critical,malware_app,no,http://www.bry@nt-r0ch@.0rg/
+smishing,"Lynch, Baker and Stein requires immediate verification of your account. Visit http://www.gardner.com/ or call (510)653-6819x1023.",https://cardenas.com/,no,no,whatsapp,malware,yes,critical,malware_app,no,https://c@rd3n@s.c0m/
+smishing,"Yates, Butler and Davis requires immediate verification of your account. Visit http://www.wells.com/ or call (500)859-9282x73358.",https://www.gentry.com/,deborah41@gmail.com,no,telegram,data theft,yes,critical,phishing_site,no,https://www.g3ntry.c0m/
+smishing,Miller-Shea requires immediate verification of your account. Visit http://www.martinez.info/ or call +1-193-994-5492.,https://manning.com/,jenniferfleming@carpenter.org,(511)842-0936,whatsapp,data theft,yes,critical,malware_app,no,https://m@nn1ng.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Mcdonald-Short on 2003-01-24.",no,no,+1-007-320-1973x700,email,notification,no,none,none,no,n0
+smishing,"Powell, Lewis and Foley requires immediate verification of your account. Visit http://santiago.com/ or call 684-064-4272x3491.",https://www.diaz.info/,steven55@griffin-ho.info,001-218-153-4045x2217,whatsapp,phishing,yes,high,malware_app,no,https://www.d1@z.1nf0/
+smishing,Ramos-Gonzalez requires immediate verification of your account. Visit https://gillespie.com/ or call 001-930-735-6083.,no,no,no,whatsapp,scam,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Brown, Chase and Matthews on 1996-04-10.",http://vega-hubbard.org/,gabriel37@fletcher.com,no,app,notification,no,none,none,no,http://v3g@-hubb@rd.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Ramos-Stout on 1981-04-17.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Mitchell-Lopez requires immediate verification of your account. Visit http://www.nunez.biz/ or call +1-343-952-5792x9129.,https://cook.net/,no,no,telegram,data theft,yes,critical,malware_app,no,https://c00k.n3t/
+smishing,"Murray, Gilmore and Curry requires immediate verification of your account. Visit https://mcpherson.org/ or call 863-461-7086.",https://www.ward.info/,no,702-718-1673x497,sms,phishing,yes,critical,malware_app,no,https://www.w@rd.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Sanford, Brown and Davis on 2014-12-29.",http://mason.com/,soniahendricks@moss.info,no,app,notification,no,none,none,no,http://m@s0n.c0m/
+smishing,Carlson-Johnson requires immediate verification of your account. Visit http://wood.net/ or call 001-374-448-0934.,http://www.yang.info/,rodneyvaldez@johnston.biz,506-734-8905x767,sms,phishing,yes,high,fraudulent_entity,no,http://www.y@ng.1nf0/
+smishing,Dawson-Carr requires immediate verification of your account. Visit https://williams.biz/ or call 746-757-2236x059.,https://carrillo-thornton.org/,heather85@dean.com,no,whatsapp,data theft,yes,critical,phishing_site,no,https://c@rr1ll0-th0rnt0n.0rg/
+smishing,Fisher and Sons requires immediate verification of your account. Visit http://www.bonilla.biz/ or call 952-689-3971x91608.,http://www.long.info/,no,381-289-4595x66671,sms,phishing,yes,critical,malware_app,no,http://www.l0ng.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Mcconnell-Scott on 2013-09-06.",no,no,(190)785-4551x8040,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Jackson-Phillips on 2009-02-07.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Golden LLC on 1980-10-21.",https://www.sutton.info/,no,no,sms,notification,no,none,none,no,https://www.sutt0n.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Carroll-Pierce on 2007-02-11.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Stanley, Allen and Carroll requires immediate verification of your account. Visit http://www.cox.org/ or call (488)974-1897.",no,christopher37@wilson.net,no,sms,phishing,yes,high,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Williams, Zavala and Chen on 1980-02-09.",no,no,+1-005-554-2474x55819,sms,notification,no,none,none,no,n0
+smishing,Jefferson-Johnson requires immediate verification of your account. Visit https://hughes-joyce.com/ or call +1-298-220-6450x114.,http://wade.com/,no,no,telegram,phishing,yes,high,phishing_site,no,http://w@d3.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Collins PLC on 1995-07-14.",no,everettkathy@yahoo.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Powell, Smith and Eaton on 2000-05-01.",no,hmelendez@lane.com,no,sms,notification,no,none,none,no,n0
+smishing,"Fletcher, Haynes and Velasquez requires immediate verification of your account. Visit http://www.mendez.org/ or call (505)369-1970.",https://phillips-miller.com/,no,no,telegram,malware,yes,critical,phishing_site,no,https://ph1ll1ps-m1ll3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Mullins, Jennings and Townsend on 2005-11-13.",https://www.carr.com/,no,no,sms,notification,no,none,none,no,https://www.c@rr.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Sandoval-Wilson on 1989-12-23.",https://lawrence.com/,melissa16@hotmail.com,(873)081-4807,email,notification,no,none,none,no,https://l@wr3nc3.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Long, White and Sanders on 1985-01-21.",no,rrice@reynolds.com,457-521-3947x728,app,notification,no,none,none,no,n0
+smishing,Rodriguez-Anderson requires immediate verification of your account. Visit https://harris.com/ or call (856)171-6069x91979.,http://www.webb-ayers.biz/,rodgerslisa@arellano.net,420-204-7072,sms,phishing,yes,critical,malware_app,no,http://www.w3bb-@y3rs.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Simpson and Sons on 2012-06-06.",no,huffmanalexis@gmail.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Miller-Russell on 1973-04-30.",no,ronald75@yahoo.com,1502688218,app,notification,no,none,none,no,n0
+smishing,Simmons-Fernandez requires immediate verification of your account. Visit https://www.evans-white.biz/ or call 311.341.3973.,no,anthony63@thomas-kirk.info,no,sms,malware,yes,critical,fraudulent_entity,no,n0
+smishing,Preston LLC requires immediate verification of your account. Visit http://www.jones.com/ or call (853)055-5500x71974.,https://www.king-hernandez.com/,chad60@moore.com,no,telegram,scam,yes,high,malware_app,no,https://www.k1ng-h3rn@nd3z.c0m/
+smishing,Rodriguez-Odonnell requires immediate verification of your account. Visit https://castillo.com/ or call (172)920-5580x00306.,https://harrington.net/,robertschristopher@garcia.com,no,sms,data theft,yes,high,malware_app,no,https://h@rr1ngt0n.n3t/
+smishing,Holt-Nunez requires immediate verification of your account. Visit http://young.net/ or call 721-088-2781x2041.,https://wells.com/,ross51@gross.com,001-275-281-6327x1190,sms,scam,yes,high,malware_app,no,https://w3lls.c0m/
+smishing,"Henson, Hartman and Yoder requires immediate verification of your account. Visit https://fox-mora.com/ or call +1-968-461-8699.",http://www.anderson.com/,benjamingarcia@hotmail.com,272.296.4033,whatsapp,scam,yes,high,fraudulent_entity,no,http://www.@nd3rs0n.c0m/
+smishing,Dennis-Hernandez requires immediate verification of your account. Visit https://flores.com/ or call 001-989-875-5860.,http://harris.com/,perrylindsey@brewer.com,001-614-365-2042x059,sms,data theft,yes,critical,malware_app,no,http://h@rr1s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Schneider, Morris and Khan on 1999-02-14.",http://stanley-jones.com/,rickystewart@kennedy.org,no,email,notification,no,none,none,no,http://st@nl3y-j0n3s.c0m/
+smishing,"Matthews, Jones and Sullivan requires immediate verification of your account. Visit https://webb.net/ or call 001-921-288-7207x185.",http://garcia.com/,no,no,sms,scam,yes,high,malware_app,no,http://g@rc1@.c0m/
+smishing,Beasley-Case requires immediate verification of your account. Visit http://garcia-williamson.com/ or call +1-228-921-8587x3762.,http://norris-harmon.info/,rogersmichael@hotmail.com,470-642-1848,whatsapp,scam,yes,critical,phishing_site,no,http://n0rr1s-h@rm0n.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Warner-Simmons on 2009-04-20.",https://martinez.net/,no,no,sms,notification,no,none,none,no,https://m@rt1n3z.n3t/
+smishing,"Lucas, Young and Le requires immediate verification of your account. Visit http://johnson.com/ or call +1-853-141-8414x083.",https://foster.com/,no,+1-969-656-5118x6502,telegram,data theft,yes,critical,phishing_site,no,https://f0st3r.c0m/
+smishing,Lawrence-Cervantes requires immediate verification of your account. Visit https://www.huang-lewis.biz/ or call 223-954-6427x1625.,http://www.simpson.com/,mryan@yahoo.com,no,whatsapp,scam,yes,critical,malware_app,no,http://www.s1mps0n.c0m/
+smishing,"Rodriguez, Ramirez and Austin requires immediate verification of your account. Visit http://www.mayer.biz/ or call 200.447.4852.",https://king.info/,no,no,whatsapp,scam,yes,critical,phishing_site,no,https://k1ng.1nf0/
+smishing,Dyer and Sons requires immediate verification of your account. Visit https://www.bryant.com/ or call +1-784-461-4840.,https://jimenez.com/,lindsey24@hotmail.com,no,whatsapp,phishing,yes,critical,malware_app,no,https://j1m3n3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Castro-Morales on 1989-01-03.",no,austinsamantha@gmail.com,no,sms,notification,no,none,none,no,n0
+smishing,Hanson LLC requires immediate verification of your account. Visit http://www.russell.net/ or call 993.998.1696.,http://ramirez-andrews.org/,wpadilla@yahoo.com,no,sms,scam,yes,high,phishing_site,no,http://r@m1r3z-@ndr3ws.0rg/
+smishing,Williams-Clark requires immediate verification of your account. Visit http://palmer-washington.com/ or call +1-669-233-3641x491.,http://james-harris.com/,no,no,sms,scam,yes,high,malware_app,no,http://j@m3s-h@rr1s.c0m/
+smishing,"Morris, Barr and Pearson requires immediate verification of your account. Visit https://www.burns-paul.biz/ or call 628.538.2256x0059.",no,tarawilliams@moore-ferguson.com,no,sms,data theft,yes,high,fraudulent_entity,no,n0
+smishing,"Sharp, Washington and Garcia requires immediate verification of your account. Visit http://taylor.com/ or call +1-850-171-9352x339.",http://mueller-sloan.com/,no,679.404.3329x803,telegram,phishing,yes,critical,malware_app,no,http://mu3ll3r-sl0@n.c0m/
+smishing,Scott Group requires immediate verification of your account. Visit https://patterson-cunningham.com/ or call 001-400-772-8949x7159.,http://www.ward.com/,no,896.465.1616x6418,telegram,malware,yes,critical,malware_app,no,http://www.w@rd.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Holmes, Boyd and Figueroa on 1995-07-19.",http://winters-moore.net/,no,no,app,notification,no,none,none,no,http://w1nt3rs-m00r3.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Guzman-Baker on 2018-07-25.",https://baker-smith.biz/,no,no,email,notification,no,none,none,no,https://b@k3r-sm1th.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Taylor PLC on 2009-05-10.",no,no,(144)697-2699x522,sms,notification,no,none,none,no,n0
+smishing,"Oneal, Meyer and Grimes requires immediate verification of your account. Visit http://www.reed.com/ or call +1-915-901-0504x4666.",http://www.massey.biz/,michaelaustin@jones-manning.com,+1-041-411-9447x545,whatsapp,phishing,yes,high,phishing_site,no,http://www.m@ss3y.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Davis, Foley and Bennett on 1993-12-21.",no,paulasmith@foster-simpson.com,no,email,notification,no,none,none,no,n0
+smishing,"Kline, Armstrong and Williams requires immediate verification of your account. Visit https://www.jackson.com/ or call 126.231.2343x30993.",https://vang-gomez.biz/,margaret67@chavez.com,(522)575-1213x339,telegram,phishing,yes,high,fraudulent_entity,no,https://v@ng-g0m3z.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Branch, Hull and Hall on 1995-02-22.",no,ffoley@johnson-flowers.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Jones and Sons on 2017-04-15.",no,robertcooke@warren.com,852-269-0963,sms,notification,no,none,none,no,n0
+smishing,"Bauer, Williams and Klein requires immediate verification of your account. Visit https://www.gill-walls.net/ or call 713-910-2639x2657.",http://www.collins.net/,cindy58@alvarado.biz,(936)971-8874,sms,scam,yes,critical,malware_app,no,http://www.c0ll1ns.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at King-Harrison on 1988-04-04.",https://www.lowe.org/,wyattemily@yahoo.com,no,app,notification,no,none,none,no,https://www.l0w3.0rg/
+smishing,Patton-Martin requires immediate verification of your account. Visit https://richardson.com/ or call 856-093-7813x629.,no,pwilson@lee.com,585.852.0991,telegram,scam,yes,high,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Duran PLC on 1973-06-20.",no,keith67@gmail.com,031-749-3057,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Murphy Ltd on 2008-08-07.",no,no,no,email,notification,no,none,none,no,n0
+smishing,"Sampson, Kelly and Shepherd requires immediate verification of your account. Visit http://www.henderson.biz/ or call 589.085.4249x08636.",no,raymond08@hotmail.com,no,whatsapp,data theft,yes,critical,fraudulent_entity,no,n0
+smishing,Escobar LLC requires immediate verification of your account. Visit https://underwood.info/ or call 437.309.6256x19328.,http://house-gonzalez.biz/,blankenshipclaudia@gmail.com,425-589-7475x8106,sms,malware,yes,high,fraudulent_entity,no,http://h0us3-g0nz@l3z.b1z/
+smishing,Waters-Taylor requires immediate verification of your account. Visit http://martinez.info/ or call 784.122.0650.,https://www.sherman.com/,salazarsteven@gmail.com,023.723.6203,whatsapp,data theft,yes,high,fraudulent_entity,no,https://www.sh3rm@n.c0m/
+smishing,Smith-Johnson requires immediate verification of your account. Visit http://garcia-fleming.com/ or call 483-688-5371x252.,no,aaron53@yahoo.com,+1-424-597-2500x5630,telegram,malware,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Orr, Church and Johnson on 1987-05-13.",no,fowlerjerome@hotmail.com,no,email,notification,no,none,none,no,n0
+smishing,"Paul, Vargas and Moore requires immediate verification of your account. Visit https://reeves.com/ or call (827)198-0292x1776.",no,brooke51@gmail.com,-8174,sms,scam,yes,high,fraudulent_entity,no,n0
+smishing,Mueller LLC requires immediate verification of your account. Visit http://www.gould.info/ or call 814.337.7296.,https://reyes.net/,william33@hudson.org,+1-204-816-0741x800,sms,malware,yes,high,phishing_site,no,https://r3y3s.n3t/
+smishing,Duffy PLC requires immediate verification of your account. Visit https://www.baldwin.com/ or call 2895488543.,no,no,no,telegram,data theft,yes,critical,fraudulent_entity,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Jacobs-Miller on 2017-06-13.",no,lisa60@payne-orozco.info,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Goodwin Ltd on 2001-02-04.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Bennett Group requires immediate verification of your account. Visit https://valencia.org/ or call +1-042-940-1058x8007.,https://www.rodriguez-nguyen.com/,banderson@webb.com,no,sms,data theft,yes,critical,malware_app,no,https://www.r0dr1gu3z-nguy3n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Schneider Group on 1981-04-11.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Smith, King and Wood on 1978-05-30.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Tapia-Jones requires immediate verification of your account. Visit http://welch.com/ or call 001-024-925-5491x899.,http://www.wright.com/,karen04@fernandez.info,001-173-401-4866,telegram,scam,yes,high,malware_app,no,http://www.wr1ght.c0m/
+smishing,"Miller, Welch and White requires immediate verification of your account. Visit http://www.scott.net/ or call 6722218146.",http://www.fuentes-howell.com/,mitchellmichelle@hotmail.com,no,whatsapp,malware,yes,critical,malware_app,no,http://www.fu3nt3s-h0w3ll.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Carter Ltd on 1979-10-23.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Mcclure, Miller and Flores on 1995-05-30.",http://day.com/,chad04@rangel.com,no,app,notification,no,none,none,no,http://d@y.c0m/
+smishing,"Anderson, Schultz and Jackson requires immediate verification of your account. Visit https://www.reyes.com/ or call +1-357-852-5040x748.",http://www.perez.com/,no,001-579-102-3872x96800,sms,scam,yes,critical,malware_app,no,http://www.p3r3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Simmons-Martinez on 1995-02-04.",http://scott.com/,no,no,sms,notification,no,none,none,no,http://sc0tt.c0m/
+smishing,Smith LLC requires immediate verification of your account. Visit http://welch.com/ or call 893.888.9610x53199.,https://www.callahan-carter.net/,no,+1-443-466-6003x731,whatsapp,scam,yes,high,malware_app,no,https://www.c@ll@h@n-c@rt3r.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Richard, Myers and Smith on 1973-06-09.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Weaver LLC on 1997-12-19.",no,cochraneric@yahoo.com,no,sms,notification,no,none,none,no,n0
+smishing,Padilla-Grimes requires immediate verification of your account. Visit https://www.brooks.com/ or call (764)606-8122.,http://sutton.com/,no,no,whatsapp,data theft,yes,high,fraudulent_entity,no,http://sutt0n.c0m/
+smishing,"Booker, Moore and Norman requires immediate verification of your account. Visit https://barnes-garza.com/ or call 375.765.0006x14219.",http://www.harrison-edwards.net/,no,no,sms,phishing,yes,critical,phishing_site,no,http://www.h@rr1s0n-3dw@rds.n3t/
+smishing,"Davis, Brown and White requires immediate verification of your account. Visit https://moore-james.com/ or call (988)577-0672.",http://vega.com/,brownjohnathan@conner.com,+1-505-460-3704x41216,telegram,scam,yes,critical,malware_app,no,http://v3g@.c0m/
+smishing,"Stein, Rodriguez and Wheeler requires immediate verification of your account. Visit http://www.jackson-garcia.com/ or call (467)317-1546x6090.",http://www.nelson.com/,brittney85@braun.com,(225)441-8110x9029,whatsapp,phishing,yes,critical,fraudulent_entity,no,http://www.n3ls0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Gomez Inc on 1985-03-22.",http://www.torres.org/,no,no,email,notification,no,none,none,no,http://www.t0rr3s.0rg/
+smishing,"Hicks, Baldwin and Taylor requires immediate verification of your account. Visit http://chapman.com/ or call 8460483164.",https://www.bates-riley.info/,no,001-271-573-8096x0738,whatsapp,malware,yes,critical,phishing_site,no,https://www.b@t3s-r1l3y.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Rice, Scott and Rios on 2019-05-07.",no,no,no,app,notification,no,none,none,no,n0
+smishing,Lloyd-Arnold requires immediate verification of your account. Visit https://carson.com/ or call +1-331-366-8194.,http://cuevas.com/,reedmatthew@yahoo.com,(095)235-4920x859,whatsapp,malware,yes,high,malware_app,no,http://cu3v@s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Mcdonald-Johnson on 1978-07-11.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hill LLC on 2019-10-12.",no,ujones@mccann-evans.org,736.939.8496x182,email,notification,no,none,none,no,n0
+smishing,"Hernandez, Bennett and Johnston requires immediate verification of your account. Visit https://robinson-ochoa.com/ or call (516)564-0044.",https://nash.com/,smithmatthew@gmail.com,no,sms,scam,yes,critical,malware_app,no,https://n@sh.c0m/
+smishing,"Cantu, Burns and Cuevas requires immediate verification of your account. Visit https://www.smith.com/ or call 747.558.2008x4958.",https://www.barrett-phillips.org/,dsmith@yahoo.com,no,whatsapp,phishing,yes,high,malware_app,no,https://www.b@rr3tt-ph1ll1ps.0rg/
+smishing,Preston-Rogers requires immediate verification of your account. Visit http://www.anderson-mejia.com/ or call +1-241-549-7103x650.,https://www.mueller-jimenez.info/,andersonnatalie@hotmail.com,no,sms,data theft,yes,high,phishing_site,no,https://www.mu3ll3r-j1m3n3z.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Brown-Wagner on 2003-11-06.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Jones, Schmidt and Scott requires immediate verification of your account. Visit http://bennett.com/ or call 186-465-7355.",http://www.trujillo.com/,joe84@yahoo.com,001-837-103-8092,whatsapp,phishing,yes,critical,malware_app,no,http://www.truj1ll0.c0m/
+smishing,Huynh Ltd requires immediate verification of your account. Visit https://www.lawson.biz/ or call 274-339-4567x8482.,https://www.peck.org/,itravis@barry-hernandez.com,no,sms,data theft,yes,high,phishing_site,no,https://www.p3ck.0rg/
+smishing,Johnson-Dean requires immediate verification of your account. Visit https://www.griffin.com/ or call 001-014-622-2698x7170.,no,no,(619)712-6388,sms,data theft,yes,high,fraudulent_entity,no,n0
+smishing,"Fowler, Thompson and Martinez requires immediate verification of your account. Visit http://valdez.com/ or call 001-999-931-6388x0934.",https://mathews.com/,angelawatts@hendrix.info,no,sms,scam,yes,critical,phishing_site,no,https://m@th3ws.c0m/
+smishing,"Leonard, Brown and Jordan requires immediate verification of your account. Visit http://www.clark-lewis.net/ or call +1-460-763-3702x948.",https://martin.com/,tmiller@gmail.com,001-252-780-1840x56862,whatsapp,scam,yes,high,phishing_site,no,https://m@rt1n.c0m/
+smishing,Nichols and Sons requires immediate verification of your account. Visit https://www.west.com/ or call 642.194.9346.,no,no,no,whatsapp,scam,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Valentine, Campos and White on 1975-01-07.",https://www.acosta-gardner.info/,lucerocorey@yahoo.com,no,app,notification,no,none,none,no,https://www.@c0st@-g@rdn3r.1nf0/
+smishing,Kidd-Marshall requires immediate verification of your account. Visit https://www.garcia.com/ or call +1-507-792-0980.,http://www.smith-fitzgerald.com/,linda39@jackson-gomez.org,no,sms,data theft,yes,critical,phishing_site,no,http://www.sm1th-f1tzg3r@ld.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Thomas-Fields on 2001-07-14.",no,apriljones@ryan.net,no,sms,notification,no,none,none,no,n0
+smishing,Valdez LLC requires immediate verification of your account. Visit https://hodges.info/ or call 001-995-008-2499x006.,https://www.montoya.com/,no,636.294.8921x982,telegram,malware,yes,high,fraudulent_entity,no,https://www.m0nt0y@.c0m/
+smishing,"Walker, Alvarado and Alexander requires immediate verification of your account. Visit http://www.norman.com/ or call 001-599-195-5596x6725.",https://williams.net/,holderthomas@yahoo.com,no,whatsapp,malware,yes,critical,malware_app,no,https://w1ll1@ms.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Cox-Huang on 2014-07-24.",no,josehayden@oconnell.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Gonzalez, Navarro and Black on 1975-05-14.",http://johnson.com/,blackburnjaime@garcia.com,8925503520,email,notification,no,none,none,no,http://j0hns0n.c0m/
+smishing,Bowman LLC requires immediate verification of your account. Visit http://hamilton.com/ or call 407.358.4490x8253.,no,kennethortiz@santiago.com,no,telegram,scam,yes,critical,malware_app,no,n0
+smishing,Cook and Sons requires immediate verification of your account. Visit http://carter.com/ or call (849)380-3483.,https://jones.com/,erica50@gmail.com,no,telegram,phishing,yes,high,fraudulent_entity,no,https://j0n3s.c0m/
+smishing,Mills-Andersen requires immediate verification of your account. Visit http://johnson.com/ or call (227)402-9042x749.,http://massey.biz/,ghammond@yahoo.com,(308)384-3146x375,whatsapp,data theft,yes,critical,malware_app,no,http://m@ss3y.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Pope, Perkins and Rogers on 1993-10-21.",http://cook.com/,kimmatthew@yahoo.com,050.905.5031,sms,notification,no,none,none,no,http://c00k.c0m/
+smishing,Thompson-Ryan requires immediate verification of your account. Visit https://wallace.com/ or call 001-486-864-1214.,https://www.williams.com/,sbennett@patrick.org,269.373.5302,sms,phishing,yes,critical,phishing_site,no,https://www.w1ll1@ms.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Benson, Lindsey and Lane on 2010-03-02.",http://johnson.net/,rspencer@stevens.com,no,sms,notification,no,none,none,no,http://j0hns0n.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Mcbride PLC on 1998-06-13.",no,christinefischer@gmail.com,476-576-9070,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hubbard-Howell on 1986-03-29.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Church, Robinson and Murray requires immediate verification of your account. Visit https://cooper.org/ or call 001-113-810-9960x21168.",https://navarro-brown.com/,owendonald@gmail.com,no,whatsapp,phishing,yes,critical,fraudulent_entity,no,https://n@v@rr0-br0wn.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Wright, Johnson and Bryan on 1997-12-30.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Robinson, Tucker and Mitchell on 2000-09-05.",no,no,465.122.5917,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Whitaker-Kaufman on 1974-08-11.",no,alexpayne@jennings-ramos.net,no,sms,notification,no,none,none,no,n0
+smishing,Martinez Group requires immediate verification of your account. Visit https://www.king.org/ or call (678)246-7130x309.,no,no,001-170-420-3832x4406,whatsapp,data theft,yes,high,fraudulent_entity,no,n0
+smishing,"Henderson, Kerr and Lang requires immediate verification of your account. Visit http://dudley.com/ or call +1-663-839-7261x600.",no,lstrong@gmail.com,no,whatsapp,malware,yes,critical,fraudulent_entity,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Pierce-Wilson on 1981-12-30.",no,pamela03@bond-frye.com,no,sms,notification,no,none,none,no,n0
+smishing,Davis-Santos requires immediate verification of your account. Visit https://hudson.com/ or call (070)251-8126x75049.,http://potter.net/,no,001-626-839-5181x5118,whatsapp,data theft,yes,critical,malware_app,no,http://p0tt3r.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Conrad-Stuart on 1982-03-28.",no,srice@jackson.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hill PLC on 1983-01-14.",no,gilbertmichael@holmes.com,(438)149-7667x556,app,notification,no,none,none,no,n0
+smishing,Cohen-Johnson requires immediate verification of your account. Visit http://www.mahoney-stewart.com/ or call (279)572-4690x1238.,no,leebryan@ayala.net,(531)366-3037,whatsapp,data theft,yes,high,fraudulent_entity,no,n0
+smishing,Thomas LLC requires immediate verification of your account. Visit http://robertson-stewart.com/ or call 001-378-235-1118x5216.,https://nunez.net/,christopherhendrix@gmail.com,no,sms,data theft,yes,high,phishing_site,no,https://nun3z.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Solis PLC on 2016-11-10.",no,jacobmoore@patel-finley.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Porter, Williams and Parks on 1992-06-24.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Vincent Ltd requires immediate verification of your account. Visit https://www.wheeler.com/ or call 380.164.7099.,https://saunders.com/,kristin98@hotmail.com,+1-204-297-6164x362,sms,phishing,yes,critical,phishing_site,no,https://s@und3rs.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Copeland-Perez on 2006-06-17.",http://copeland-russell.com/,no,942-899-4486x703,sms,notification,no,none,none,no,http://c0p3l@nd-russ3ll.c0m/
+smishing,"Green, Clay and Rios requires immediate verification of your account. Visit https://www.freeman.com/ or call +1-125-733-1797.",https://www.young.com/,cassandra65@taylor.info,836.665.1895x8155,sms,scam,yes,high,fraudulent_entity,no,https://www.y0ung.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Horne-Spencer on 1990-10-10.",http://harris.com/,brownjustin@vargas.com,708.260.6141x9912,sms,notification,no,none,none,no,http://h@rr1s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Armstrong-Leon on 1972-09-05.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Palmer LLC on 1971-05-15.",http://www.bennett.info/,oglass@gmail.com,no,sms,notification,no,none,none,no,http://www.b3nn3tt.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Watson, Banks and Davis on 1976-09-14.",no,michaelrobbins@burgess.com,+1-968-213-7038x4636,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Herrera, Galvan and Richards on 1998-10-10.",no,adamstammy@morrow-taylor.com,no,email,notification,no,none,none,no,n0
+smishing,Bridges-Wang requires immediate verification of your account. Visit https://gibson-gonzales.com/ or call (630)991-5359x8362.,https://jennings-mathis.info/,no,no,telegram,malware,yes,high,malware_app,no,https://j3nn1ngs-m@th1s.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Thompson Group on 2016-09-09.",no,no,140-920-8404,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Roberts LLC on 1982-07-20.",no,fbrooks@gmail.com,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Jacobs LLC on 2008-11-04.",no,greenmicheal@yahoo.com,725.692.1408x334,email,notification,no,none,none,no,n0
+smishing,Sanchez LLC requires immediate verification of your account. Visit http://www.navarro-guerrero.net/ or call 001-478-751-2398.,http://www.woods.com/,pricerebecca@yahoo.com,(892)500-0781,whatsapp,phishing,yes,high,fraudulent_entity,no,http://www.w00ds.c0m/
+smishing,Warren and Sons requires immediate verification of your account. Visit http://www.martin-francis.com/ or call 001-307-742-2927x73498.,https://wilkerson.com/,no,no,sms,malware,yes,high,phishing_site,no,https://w1lk3rs0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Huber Inc on 1989-12-05.",no,no,904.983.4704x6255,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Daniel Ltd on 1991-11-07.",no,jessica10@davis-levine.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Fields-Rasmussen on 2023-04-28.",no,no,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Travis-Price on 2005-12-11.",no,howardroberson@king.com,-7651,email,notification,no,none,none,no,n0
+smishing,Price-Blair requires immediate verification of your account. Visit https://www.stewart-santos.org/ or call 561-587-9419x827.,https://www.ball.org/,gomezreginald@davis.com,001-349-962-8788,sms,phishing,yes,critical,malware_app,no,https://www.b@ll.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Schmitt-Ashley on 2013-12-17.",no,krose@salinas.com,no,email,notification,no,none,none,no,n0
+smishing,Reed-Roberson requires immediate verification of your account. Visit https://lyons.info/ or call (073)489-0034x74269.,https://www.french.com/,no,(228)585-5492,sms,scam,yes,high,fraudulent_entity,no,https://www.fr3nch.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Villa-Frank on 2019-10-31.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Grant-Acevedo on 2003-09-09.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Moore-Bennett on 2012-07-14.",http://www.wells-fischer.info/,no,no,app,notification,no,none,none,no,http://www.w3lls-f1sch3r.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Simon LLC on 2000-12-19.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Kelly, Roberson and Evans on 1993-05-04.",no,no,(156)394-1410,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Diaz-Wright on 2003-11-15.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Lopez and Sons requires immediate verification of your account. Visit https://williams-rivera.com/ or call 041.511.5939x409.,https://molina-hayden.net/,jessicamelendez@gmail.com,no,sms,data theft,yes,critical,malware_app,no,https://m0l1n@-h@yd3n.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Herman-Davies on 2000-07-07.",no,no,491.616.8284x7996,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Davila PLC on 1986-01-31.",no,thomas89@hotmail.com,001-015-523-5977,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Silva and Sons on 2009-05-14.",http://www.taylor.com/,spearsjulie@yahoo.com,no,app,notification,no,none,none,no,http://www.t@yl0r.c0m/
+smishing,Abbott-Lawrence requires immediate verification of your account. Visit https://www.cunningham.com/ or call +1-307-114-0004x236.,http://www.reynolds-brown.com/,no,no,telegram,malware,yes,high,phishing_site,no,http://www.r3yn0lds-br0wn.c0m/
+smishing,Erickson-Ramirez requires immediate verification of your account. Visit https://knox-williams.com/ or call 867-817-1588x376.,https://www.lee-little.biz/,rioslisa@yahoo.com,941.566.0449,whatsapp,phishing,yes,critical,fraudulent_entity,no,https://www.l33-l1ttl3.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Montoya-Matthews on 2012-09-23.",https://www.rodgers.com/,jsmith@murphy.info,5384377910,email,notification,no,none,none,no,https://www.r0dg3rs.c0m/
+smishing,"Rodriguez, Coleman and Jordan requires immediate verification of your account. Visit https://sanders.com/ or call 587-470-5025x32854.",https://www.sweeney.net/,patrick20@hall.com,879.004.6313,whatsapp,scam,yes,critical,fraudulent_entity,no,https://www.sw33n3y.n3t/
+smishing,"Sandoval, Allen and Baldwin requires immediate verification of your account. Visit http://www.ware-meyer.org/ or call 707-098-0219x604.",https://www.browning-davis.com/,andrewsjulie@lozano.com,(489)545-8483x55586,whatsapp,phishing,yes,high,malware_app,no,https://www.br0wn1ng-d@v1s.c0m/
+smishing,Moore PLC requires immediate verification of your account. Visit https://odom.com/ or call 150-897-6209x628.,no,james33@yahoo.com,(007)776-5171x07482,telegram,malware,yes,critical,fraudulent_entity,no,n0
+smishing,Parks-Lopez requires immediate verification of your account. Visit http://www.higgins.org/ or call 001-874-935-6303x82425.,http://ross.net/,no,no,whatsapp,phishing,yes,high,phishing_site,no,http://r0ss.n3t/
+smishing,Cobb-Snow requires immediate verification of your account. Visit http://www.vasquez.com/ or call 727-495-8263x33825.,https://www.conner.com/,no,854-553-3019x89888,sms,phishing,yes,high,phishing_site,no,https://www.c0nn3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Hughes, Russell and French on 2025-04-01.",no,no,(565)304-1014x9818,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Petersen, Stephens and Carter on 2019-02-28.",http://www.reynolds.com/,gregorypatrick@casey.net,963.306.6023x1626,app,notification,no,none,none,no,http://www.r3yn0lds.c0m/
+smishing,Everett and Sons requires immediate verification of your account. Visit http://www.davis.com/ or call 2249228075.,https://www.perry-adkins.net/,alanbrown@gmail.com,001-976-933-9822x90182,whatsapp,scam,yes,high,malware_app,no,https://www.p3rry-@dk1ns.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Ortiz Ltd on 2013-12-15.",no,no,no,email,notification,no,none,none,no,n0
+smishing,"Campbell, Blake and Delgado requires immediate verification of your account. Visit http://miller.net/ or call 037.156.7244.",http://johnson-brown.com/,daniel14@hotmail.com,839-020-2582x479,sms,phishing,yes,high,fraudulent_entity,no,http://j0hns0n-br0wn.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Mendez Ltd on 1985-09-15.",no,fernandojones@jackson-lawrence.info,+1-324-305-0271x01134,app,notification,no,none,none,no,n0
+smishing,"Robinson, Johnson and Owens requires immediate verification of your account. Visit http://martinez-baird.com/ or call 001-985-871-2931x9056.",https://www.mendoza.org/,jenkinsjared@yahoo.com,587.579.4961x688,telegram,scam,yes,high,phishing_site,no,https://www.m3nd0z@.0rg/
+smishing,"Davis, Cameron and Wood requires immediate verification of your account. Visit https://diaz.org/ or call +1-606-233-3830x6235.",https://weber.com/,iandrade@meyers.net,no,sms,data theft,yes,critical,phishing_site,no,https://w3b3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Page Inc on 1974-06-19.",http://www.cox-white.net/,chelseasparks@yahoo.com,no,app,notification,no,none,none,no,http://www.c0x-wh1t3.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Zamora-Townsend on 1990-07-16.",no,no,(480)467-3875x92130,email,notification,no,none,none,no,n0
+smishing,Roberts and Sons requires immediate verification of your account. Visit http://lopez.com/ or call (209)102-8164x509.,https://www.smith.com/,no,no,sms,malware,yes,high,malware_app,no,https://www.sm1th.c0m/
+smishing,Todd-Gilbert requires immediate verification of your account. Visit https://murphy-ballard.com/ or call 001-136-179-4256x272.,https://www.mendez.net/,andrew39@hall-mckinney.org,959.197.9195,sms,malware,yes,high,fraudulent_entity,no,https://www.m3nd3z.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Garcia, Blair and Wright on 1979-10-22.",no,no,767-181-7337x362,email,notification,no,none,none,no,n0
+smishing,"Davis, Cowan and Roth requires immediate verification of your account. Visit http://pugh-rodriguez.info/ or call 239-076-3796.",no,georgecody@oneill.com,no,whatsapp,data theft,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Arnold Ltd on 2015-12-05.",no,no,108.889.1116x0429,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Barnes, Davis and Phillips on 1996-04-01.",no,no,no,app,notification,no,none,none,no,n0
+smishing,Kelly and Sons requires immediate verification of your account. Visit http://howell.com/ or call 114-412-5472x2759.,http://johnston-montgomery.com/,todd20@gmail.com,no,whatsapp,malware,yes,critical,fraudulent_entity,no,http://j0hnst0n-m0ntg0m3ry.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Brown-Chambers on 1991-06-28.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hamilton PLC on 1995-12-29.",no,no,539.154.8328,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Wilcox Group on 1988-02-14.",no,graveskimberly@gmail.com,-5447,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Jimenez-Roberts on 2021-01-06.",no,jberry@gmail.com,001-828-698-0439x403,email,notification,no,none,none,no,n0
+smishing,"Howard, Perry and Wilson requires immediate verification of your account. Visit https://www.richardson-johnson.net/ or call 291-188-6249.",http://martin-cole.org/,no,311-290-1893x0040,sms,scam,yes,high,malware_app,no,http://m@rt1n-c0l3.0rg/
+smishing,Jones PLC requires immediate verification of your account. Visit http://www.turner.com/ or call 880.262.9310x549.,https://kelly-gomez.com/,no,441-431-1829x92270,telegram,malware,yes,critical,malware_app,no,https://k3lly-g0m3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Harris, Lee and Guzman on 2004-02-22.",no,walterwilliams@pope.info,(454)662-3406,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Martin, Leon and Allen on 2020-09-07.",http://www.wiley.biz/,no,no,sms,notification,no,none,none,no,http://www.w1l3y.b1z/
+smishing,Young-Bowen requires immediate verification of your account. Visit https://www.burns.com/ or call (648)515-7157x0109.,https://www.mcgee.com/,no,no,telegram,malware,yes,high,malware_app,no,https://www.mcg33.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Franklin, Walker and Johnson on 2024-05-28.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Khan Group requires immediate verification of your account. Visit https://meadows.net/ or call 359-452-0316x898.,http://costa.org/,trobinson@freeman.com,(233)512-3905x2345,telegram,phishing,yes,critical,fraudulent_entity,no,http://c0st@.0rg/
+smishing,"Lowery, Hill and Clark requires immediate verification of your account. Visit http://www.wood.com/ or call (435)959-0297.",http://www.lowe.com/,houstonwanda@gmail.com,no,whatsapp,data theft,yes,high,phishing_site,no,http://www.l0w3.c0m/
+smishing,"Johnson, Vasquez and Ellis requires immediate verification of your account. Visit https://chan.com/ or call 571-401-2617x6828.",https://johnson.org/,justinmeza@yahoo.com,674-520-7958x868,telegram,malware,yes,critical,fraudulent_entity,no,https://j0hns0n.0rg/
+smishing,Perez-Beck requires immediate verification of your account. Visit https://cabrera-ward.com/ or call 017-277-9021x388.,http://johnson.com/,tbeck@yahoo.com,+1-652-903-6598x596,sms,data theft,yes,critical,fraudulent_entity,no,http://j0hns0n.c0m/
+smishing,"Jimenez, Ortega and Morgan requires immediate verification of your account. Visit https://www.townsend-perez.com/ or call 781.125.3267x83134.",http://www.martinez.com/,freyanthony@yahoo.com,(513)671-6379,telegram,phishing,yes,critical,phishing_site,no,http://www.m@rt1n3z.c0m/
+smishing,Baldwin Inc requires immediate verification of your account. Visit http://ortega.com/ or call 001-736-967-5604.,https://www.webb-tate.com/,cindy35@yahoo.com,(680)042-7163,telegram,malware,yes,critical,malware_app,no,https://www.w3bb-t@t3.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Prince-Roth on 2018-11-28.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Ramirez-Harris on 2022-11-21.",no,no,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Huynh-Smith on 2021-01-21.",no,no,no,app,notification,no,none,none,no,n0
+smishing,"Russell, Shelton and Bridges requires immediate verification of your account. Visit https://www.johnson-ward.com/ or call 5265935097.",http://gonzalez-wilson.com/,no,+1-552-503-1068x7439,telegram,malware,yes,critical,malware_app,no,http://g0nz@l3z-w1ls0n.c0m/
+smishing,Wyatt-Walker requires immediate verification of your account. Visit http://www.wallace.com/ or call +1-822-849-3101.,https://www.rose-hill.com/,no,-5474,telegram,data theft,yes,high,fraudulent_entity,no,https://www.r0s3-h1ll.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Ruiz-James on 1992-10-19.",no,no,874-050-7665x30487,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Meyers Group on 2003-01-29.",no,no,001-809-035-6694x340,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Ramirez-Henry on 2004-11-10.",no,no,633-962-3519x4063,email,notification,no,none,none,no,n0
+smishing,"Alvarado, Vasquez and Yu requires immediate verification of your account. Visit http://simmons-mckenzie.net/ or call +1-175-813-0272x3746.",http://www.hill.org/,shelbymanning@rocha.biz,no,whatsapp,scam,yes,high,fraudulent_entity,no,http://www.h1ll.0rg/
+smishing,Williams LLC requires immediate verification of your account. Visit https://www.edwards.info/ or call 204-231-7934x253.,no,james90@stevens-mills.com,no,whatsapp,phishing,yes,critical,fraudulent_entity,no,n0
+smishing,"Marquez, Mays and Smith requires immediate verification of your account. Visit https://hall.com/ or call +1-972-808-9351x8396.",no,no,no,sms,phishing,yes,critical,fraudulent_entity,no,n0
+smishing,Johns-Nguyen requires immediate verification of your account. Visit https://black.biz/ or call 585-571-0986x10951.,http://boyd.com/,xcollins@bennett.com,374-134-7986x6831,whatsapp,malware,yes,critical,malware_app,no,http://b0yd.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Wright PLC on 2023-06-01.",no,martinalex@walton.com,4281246309,app,notification,no,none,none,no,n0
+smishing,Lambert LLC requires immediate verification of your account. Visit https://bryan.biz/ or call 823.315.8640x2396.,https://www.shaw-jones.org/,zroberts@hotmail.com,no,telegram,malware,yes,critical,phishing_site,no,https://www.sh@w-j0n3s.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Hall, Richardson and Brooks on 1979-05-22.",no,no,5399767950,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Sanchez, Kerr and Arroyo on 1992-12-27.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Washington, Diaz and Romero on 2000-03-08.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Murphy, Clark and Brooks on 1987-05-11.",no,millerlatoya@mitchell.com,no,email,notification,no,none,none,no,n0
+smishing,Ruiz LLC requires immediate verification of your account. Visit http://www.george.com/ or call +1-813-369-6316x226.,no,vmorrison@hotmail.com,(588)094-0489x7904,telegram,malware,yes,critical,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Olson-Pierce on 1989-03-14.",no,no,(090)450-7071x748,email,notification,no,none,none,no,n0
+smishing,Potter-Jordan requires immediate verification of your account. Visit https://bowers-garcia.com/ or call +1-469-951-3637.,https://www.franklin-maxwell.com/,david27@massey.com,no,telegram,scam,yes,critical,fraudulent_entity,no,https://www.fr@nkl1n-m@xw3ll.c0m/
+smishing,Booth and Sons requires immediate verification of your account. Visit https://flores-arroyo.com/ or call 1982594054.,no,jennifer15@hotmail.com,(297)797-3798,sms,data theft,yes,high,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Wilkerson-Sanchez on 1988-06-02.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hill Ltd on 1975-08-18.",no,khicks@gmail.com,+1-598-848-1441x719,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Lindsey-Burns on 2018-02-28.",no,no,470-932-6975,email,notification,no,none,none,no,n0
+smishing,"Hoffman, Ferguson and Anderson requires immediate verification of your account. Visit https://mullen.net/ or call 775-486-6698x32496.",http://www.kim-ford.com/,andersonkyle@diaz.com,no,whatsapp,scam,yes,high,fraudulent_entity,no,http://www.k1m-f0rd.c0m/
+smishing,Cruz Ltd requires immediate verification of your account. Visit https://donaldson.info/ or call (583)931-0291x20751.,http://jones.com/,thomaslozano@yahoo.com,(208)455-0521x5549,whatsapp,phishing,yes,high,malware_app,no,http://j0n3s.c0m/
+smishing,"Santiago, Kerr and Morris requires immediate verification of your account. Visit https://www.lucas.com/ or call 2142234276.",https://www.crawford-williams.net/,diane41@hotmail.com,2589372630,sms,data theft,yes,high,fraudulent_entity,no,https://www.cr@wf0rd-w1ll1@ms.n3t/
+smishing,Brown-Baldwin requires immediate verification of your account. Visit http://hall-collins.net/ or call 715-568-2456.,http://vazquez.net/,johnsonzachary@pierce.com,no,whatsapp,phishing,yes,high,phishing_site,no,http://v@zqu3z.n3t/
+smishing,"Stone, Palmer and Knight requires immediate verification of your account. Visit http://lee-krause.com/ or call (408)031-9360x3226.",no,tiffany24@gmail.com,392.504.0995x022,whatsapp,scam,yes,critical,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Smith-Harper on 1993-06-22.",no,no,001-713-740-0339x90178,app,notification,no,none,none,no,n0
+smishing,Jordan-Torres requires immediate verification of your account. Visit https://crawford.biz/ or call 282-543-5593x536.,http://bryant.com/,robert12@yahoo.com,(138)343-5847,telegram,malware,yes,high,malware_app,no,http://bry@nt.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Sanders and Sons on 2009-12-08.",no,dlong@yahoo.com,no,app,notification,no,none,none,no,n0
+smishing,"Dillon, Chen and Brewer requires immediate verification of your account. Visit https://gates-english.com/ or call +1-456-884-7062x4486.",no,no,no,whatsapp,scam,yes,critical,phishing_site,no,n0
+smishing,Pacheco-Nguyen requires immediate verification of your account. Visit https://www.matthews.com/ or call 001-994-756-8973x222.,http://little.biz/,no,no,whatsapp,malware,yes,critical,malware_app,no,http://l1ttl3.b1z/
+smishing,Cobb PLC requires immediate verification of your account. Visit http://holmes.net/ or call (987)159-0087x2021.,no,christinagarrett@martinez-stephens.com,304-856-4464,sms,phishing,yes,high,phishing_site,no,n0
+smishing,Freeman and Sons requires immediate verification of your account. Visit https://simpson.org/ or call +1-746-857-6253x50979.,https://www.chapman-harding.com/,itucker@lynch.biz,529-008-7335,sms,phishing,yes,critical,malware_app,no,https://www.ch@pm@n-h@rd1ng.c0m/
+smishing,Murphy Ltd requires immediate verification of your account. Visit https://www.sanchez-garcia.biz/ or call 037-741-5921x66208.,http://www.henderson.org/,no,no,whatsapp,malware,yes,high,fraudulent_entity,no,http://www.h3nd3rs0n.0rg/
+smishing,Perry Ltd requires immediate verification of your account. Visit http://www.thomas-higgins.com/ or call (367)475-3964x909.,http://foster-peterson.com/,kathrynortiz@thompson-jackson.com,(710)531-7569,telegram,phishing,yes,high,fraudulent_entity,no,http://f0st3r-p3t3rs0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Small-Dawson on 1978-04-28.",http://www.robinson.com/,no,no,sms,notification,no,none,none,no,http://www.r0b1ns0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Morris, Martin and Young on 1976-11-20.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Cross and Sons requires immediate verification of your account. Visit http://wilson.net/ or call 765.849.3970x4971.,http://obrien.com/,no,+1-652-742-1390x6586,whatsapp,data theft,yes,high,phishing_site,no,http://0br13n.c0m/
+smishing,Ellis-Moore requires immediate verification of your account. Visit https://blackwell.com/ or call +1-187-584-8542.,https://chavez.com/,mgonzalez@jenkins-smith.com,(122)691-9593x349,whatsapp,scam,yes,high,phishing_site,no,https://ch@v3z.c0m/
+smishing,Allen-Kelly requires immediate verification of your account. Visit https://www.golden.info/ or call +1-770-098-9828x260.,http://www.smith-mata.info/,no,no,sms,scam,yes,high,fraudulent_entity,no,http://www.sm1th-m@t@.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Williams Ltd on 1993-06-12.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Smith, Crosby and Cervantes requires immediate verification of your account. Visit http://johnson.org/ or call 001-141-967-1167.",http://www.woodward.com/,no,145-620-2793,telegram,scam,yes,critical,fraudulent_entity,no,http://www.w00dw@rd.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Melendez, Molina and Carpenter on 2016-02-24.",no,rshaw@sanchez-price.org,001-128-551-6957x044,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Sanchez Group on 1974-04-15.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,Castillo Ltd requires immediate verification of your account. Visit https://www.zavala.org/ or call 065-102-7067.,http://cross.com/,ebailey@allen.com,no,whatsapp,phishing,yes,critical,fraudulent_entity,no,http://cr0ss.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Logan Group on 1970-03-12.",no,no,no,email,notification,no,none,none,no,n0
+smishing,"Jones, Williams and Mendoza requires immediate verification of your account. Visit http://www.herrera-morris.com/ or call 770-185-5229.",http://www.smith.com/,zoe47@owens.info,+1-969-093-7033x136,sms,scam,yes,high,malware_app,no,http://www.sm1th.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Byrd-Stone on 2003-10-16.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Marquez, Perry and Wright requires immediate verification of your account. Visit https://lopez.info/ or call 757.224.8901x67610.",http://neal.biz/,no,no,telegram,data theft,yes,high,malware_app,no,http://n3@l.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Mccarthy PLC on 1996-07-22.",http://copeland.org/,nguyenkristy@hotmail.com,no,sms,notification,no,none,none,no,http://c0p3l@nd.0rg/
+smishing,Wagner LLC requires immediate verification of your account. Visit https://www.reed.com/ or call (933)313-7272x23223.,http://www.jenkins-miller.org/,austinjames@williamson.com,(199)691-8974x8595,sms,data theft,yes,critical,phishing_site,no,http://www.j3nk1ns-m1ll3r.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Davis, Boyle and Sanders on 1989-04-28.",http://www.castro.info/,no,(632)606-7260x8696,sms,notification,no,none,none,no,http://www.c@str0.1nf0/
+smishing,Powell LLC requires immediate verification of your account. Visit http://hampton-nunez.com/ or call (938)769-7470x08953.,http://burton-white.com/,randyjackson@murphy.com,no,sms,scam,yes,high,fraudulent_entity,no,http://burt0n-wh1t3.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Harper LLC on 1970-12-31.",http://webster.info/,no,no,app,notification,no,none,none,no,http://w3bst3r.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Wade-Miller on 1980-08-29.",no,philipparker@brown.com,no,sms,notification,no,none,none,no,n0
+smishing,Edwards-Mcdonald requires immediate verification of your account. Visit http://www.mills.com/ or call 001-974-343-6498x6130.,no,lopezamanda@yahoo.com,001-864-652-3852x907,whatsapp,malware,yes,high,phishing_site,no,n0
+smishing,Roth LLC requires immediate verification of your account. Visit http://golden.com/ or call (729)817-1729x9392.,no,no,7168989445,sms,malware,yes,critical,fraudulent_entity,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at May, Hebert and Johnson on 2008-08-29.",no,johnsonnicole@hotmail.com,no,app,notification,no,none,none,no,n0
+smishing,Steele LLC requires immediate verification of your account. Visit https://hartman-berry.com/ or call 071.205.7816x43719.,http://rasmussen-gutierrez.com/,aaronfreeman@gmail.com,no,telegram,malware,yes,critical,malware_app,no,http://r@smuss3n-gut13rr3z.c0m/
+smishing,Francis and Sons requires immediate verification of your account. Visit https://www.gregory.com/ or call 583-241-4719.,https://www.delgado-wolfe.com/,hallkendra@schneider.com,no,telegram,scam,yes,high,malware_app,no,https://www.d3lg@d0-w0lf3.c0m/
+smishing,Lopez Group requires immediate verification of your account. Visit https://thomas.com/ or call 684.372.4155x759.,http://www.sullivan.com/,john70@yahoo.com,001-803-395-4840,sms,data theft,yes,high,malware_app,no,http://www.sull1v@n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Griffin Group on 2019-05-02.",no,no,001-219-610-4681x500,sms,notification,no,none,none,no,n0
+smishing,Edwards-Stanley requires immediate verification of your account. Visit http://clayton.com/ or call (207)724-4803.,https://www.figueroa.biz/,no,no,whatsapp,data theft,yes,high,fraudulent_entity,no,https://www.f1gu3r0@.b1z/
+smishing,"Hamilton, Brooks and Nolan requires immediate verification of your account. Visit https://krueger.com/ or call 001-647-217-5311x682.",https://www.norris-richards.com/,jacobbooth@bray.com,452-323-5529x6898,sms,phishing,yes,critical,malware_app,no,https://www.n0rr1s-r1ch@rds.c0m/
+smishing,Fleming-Thornton requires immediate verification of your account. Visit http://short.com/ or call +1-853-534-1175x825.,https://www.wilson.com/,no,279-014-7837x504,sms,malware,yes,high,phishing_site,no,https://www.w1ls0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Smith-Mitchell on 2018-01-18.",no,no,001-262-345-2010x637,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Wilson, Stevens and Franco on 1972-06-29.",no,no,(495)007-0727x322,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Murphy-Lozano on 1985-01-11.",no,no,(803)051-6380,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Trevino, Williams and Holder on 1988-05-13.",no,desireedelgado@hotmail.com,no,app,notification,no,none,none,no,n0
+smishing,Pierce-Jacobs requires immediate verification of your account. Visit http://campbell-anderson.com/ or call 528-248-1624.,https://thompson-miller.info/,no,986.482.8477,whatsapp,malware,yes,high,fraudulent_entity,no,https://th0mps0n-m1ll3r.1nf0/
+smishing,Robinson-Baker requires immediate verification of your account. Visit https://edwards.biz/ or call 986-259-8415.,https://www.alvarez.info/,no,no,telegram,malware,yes,high,phishing_site,no,https://www.@lv@r3z.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Johnson Inc on 1970-01-03.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Thomas-Davis on 1975-01-26.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hartman PLC on 2004-05-02.",https://www.sawyer.com/,no,-3739,app,notification,no,none,none,no,https://www.s@wy3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Chang, Jones and Hernandez on 1997-03-02.",http://www.macias.info/,tthompson@hotmail.com,860-408-6954,sms,notification,no,none,none,no,http://www.m@c1@s.1nf0/
+smishing,"Alexander, Moreno and Nunez requires immediate verification of your account. Visit http://estes-chambers.com/ or call 865.719.3933x2212.",http://hahn.org/,dana90@flores.net,3502829815,telegram,data theft,yes,critical,fraudulent_entity,no,http://h@hn.0rg/
+smishing,Gray Ltd requires immediate verification of your account. Visit http://www.ruiz.com/ or call +1-373-203-0294x692.,no,no,no,sms,data theft,yes,high,malware_app,no,n0
+smishing,Johnson Group requires immediate verification of your account. Visit https://williams-hoover.com/ or call +1-295-003-4262x795.,http://www.mercer.org/,no,no,whatsapp,scam,yes,critical,malware_app,no,http://www.m3rc3r.0rg/
+smishing,Bowman Group requires immediate verification of your account. Visit https://www.brown.com/ or call 512.157.3090.,https://jimenez.biz/,no,510.007.7953x985,sms,phishing,yes,critical,phishing_site,no,https://j1m3n3z.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Garcia-Taylor on 2022-09-30.",https://www.perez-robinson.com/,tammy63@crawford.com,no,email,notification,no,none,none,no,https://www.p3r3z-r0b1ns0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Beck-Wallace on 1974-03-06.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Strickland Group requires immediate verification of your account. Visit http://www.rodriguez.com/ or call +1-039-323-4539x2413.,no,judith46@yahoo.com,no,whatsapp,data theft,yes,high,malware_app,no,n0
+smishing,"Hubbard, Bradford and Huynh requires immediate verification of your account. Visit http://howard.com/ or call (079)595-8670.",http://klein-page.com/,kellykaren@hotmail.com,305.738.1799,telegram,phishing,yes,critical,fraudulent_entity,no,http://kl31n-p@g3.c0m/
+smishing,Mcdonald LLC requires immediate verification of your account. Visit http://www.hunt-cisneros.info/ or call 291.686.8562.,no,coreywright@harvey.com,no,whatsapp,scam,yes,high,fraudulent_entity,no,n0
+smishing,White-Miller requires immediate verification of your account. Visit https://stanton.com/ or call 001-903-171-1073x066.,http://www.sweeney-lewis.info/,jodi01@young.com,+1-298-766-6137x9769,telegram,scam,yes,high,malware_app,no,http://www.sw33n3y-l3w1s.1nf0/
+smishing,Leblanc LLC requires immediate verification of your account. Visit http://www.wood-nielsen.com/ or call 977-951-2400.,http://davis.com/,brian37@madden.com,481.596.4355x629,whatsapp,malware,yes,critical,fraudulent_entity,no,http://d@v1s.c0m/
+smishing,"Rollins, Williams and Boone requires immediate verification of your account. Visit http://smith.biz/ or call 4202879031.",http://morrison.org/,marymiranda@grant.com,001-425-562-5530x870,whatsapp,data theft,yes,critical,malware_app,no,http://m0rr1s0n.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Hicks-Martin on 1992-09-13.",no,eddie84@smith.net,001-941-587-6489x76641,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Campbell and Sons on 2008-02-27.",no,no,no,app,notification,no,none,none,no,n0
+smishing,Greer-Spencer requires immediate verification of your account. Visit https://www.rodriguez.com/ or call +1-479-251-6730x749.,http://thompson.com/,no,194-817-2173,telegram,scam,yes,critical,fraudulent_entity,no,http://th0mps0n.c0m/
+smishing,"Rice, Hayes and Cooper requires immediate verification of your account. Visit http://ramirez.com/ or call 311.904.1107.",http://www.morris.com/,melissarojas@yahoo.com,no,telegram,data theft,yes,critical,fraudulent_entity,no,http://www.m0rr1s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Rodriguez, Morgan and Carter on 1998-05-28.",no,no,(571)970-7203x41659,email,notification,no,none,none,no,n0
+smishing,Vargas-Howard requires immediate verification of your account. Visit http://stone-rocha.biz/ or call (445)610-1774x4974.,https://mckee.net/,taragregory@watts-welch.com,no,sms,scam,yes,high,malware_app,no,https://mck33.n3t/
+non-smishing,"Hi, this is a reminder for your appointment at Harper, Chandler and Smith on 1991-01-07.",https://www.carter.info/,hernandezmichael@gray.org,496.359.6555x6205,sms,notification,no,none,none,no,https://www.c@rt3r.1nf0/
+smishing,Moore Inc requires immediate verification of your account. Visit https://dominguez-adams.com/ or call (018)572-4370.,no,stanleyheather@cardenas.biz,no,whatsapp,phishing,yes,high,phishing_site,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Reeves Group on 2005-04-05.",no,brittany23@burnett-english.com,+1-827-865-0757x2332,sms,notification,no,none,none,no,n0
+smishing,"Russell, Hernandez and Powell requires immediate verification of your account. Visit https://www.mcclure-gonzales.com/ or call (599)833-4332x8129.",http://fitzpatrick.com/,no,(747)900-2058,sms,malware,yes,critical,fraudulent_entity,no,http://f1tzp@tr1ck.c0m/
+smishing,Flores-Bowers requires immediate verification of your account. Visit https://hughes.com/ or call 659-240-8453.,https://www.bowers-russo.com/,jirwin@hotmail.com,no,sms,phishing,yes,high,fraudulent_entity,no,https://www.b0w3rs-russ0.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Hernandez-Dickson on 2005-10-30.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Collins, Gonzales and Johnston requires immediate verification of your account. Visit http://www.fox-jones.com/ or call 8533294388.",http://www.johnson-morris.com/,no,no,telegram,phishing,yes,critical,malware_app,no,http://www.j0hns0n-m0rr1s.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Kennedy Group on 2022-01-08.",no,jose70@yahoo.com,+1-735-395-5683x39573,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Chapman-Ramos on 2013-05-18.",http://lee.biz/,no,567.992.2577,app,notification,no,none,none,no,http://l33.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Adams-Ellis on 1985-11-03.",no,welchbrittany@yahoo.com,1730002281,app,notification,no,none,none,no,n0
+smishing,Green-Avila requires immediate verification of your account. Visit https://jones.com/ or call 001-315-227-1439.,http://www.anderson.info/,dawnhawkins@yahoo.com,+1-201-490-4311x585,sms,phishing,yes,high,fraudulent_entity,no,http://www.@nd3rs0n.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Long-Mills on 1977-03-20.",https://pena.com/,elizabeth28@wilson-flores.com,no,app,notification,no,none,none,no,https://p3n@.c0m/
+smishing,"Jones, Rodriguez and Landry requires immediate verification of your account. Visit http://skinner.org/ or call (177)203-7895.",no,madison97@simmons.com,no,telegram,phishing,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Powell PLC on 2003-10-24.",no,maldonadojesse@hotmail.com,3368088631,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Young-Booth on 1999-05-14.",no,no,001-008-413-2425x47387,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Cooper and Sons on 2010-08-09.",no,wongjacob@hotmail.com,788-896-1445x446,sms,notification,no,none,none,no,n0
+smishing,Moss-Martinez requires immediate verification of your account. Visit https://little-frazier.com/ or call 017-782-9356.,https://beard.com/,cwalker@yahoo.com,(617)396-7747x99985,whatsapp,phishing,yes,critical,fraudulent_entity,no,https://b3@rd.c0m/
+smishing,"Cortez, Carter and Berger requires immediate verification of your account. Visit https://fitzgerald.com/ or call 001-560-545-7783.",https://white.com/,wardherbert@gmail.com,001-891-719-5873,telegram,data theft,yes,critical,fraudulent_entity,no,https://wh1t3.c0m/
+smishing,"Johnson, Frank and Green requires immediate verification of your account. Visit http://manning-martin.info/ or call 938.709.0898.",no,brendahayes@hotmail.com,no,whatsapp,phishing,yes,critical,fraudulent_entity,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Moon-Fleming on 1972-12-30.",no,no,no,email,notification,no,none,none,no,n0
+smishing,Espinoza and Sons requires immediate verification of your account. Visit http://green.net/ or call (155)230-9395x0139.,https://thompson-massey.com/,nicole75@yahoo.com,no,sms,scam,yes,high,phishing_site,no,https://th0mps0n-m@ss3y.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Morrison-Fisher on 1990-12-01.",no,jacobgarcia@yahoo.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hunter-Allen on 2003-11-03.",https://www.carlson.info/,jacob84@shaw.biz,001-005-729-3708x731,sms,notification,no,none,none,no,https://www.c@rls0n.1nf0/
+smishing,"Willis, Chavez and Petersen requires immediate verification of your account. Visit https://cook.org/ or call (891)034-3638x2614.",https://www.schwartz.com/,washingtonkatherine@vasquez-smith.com,(248)530-1436x73123,whatsapp,phishing,yes,critical,phishing_site,no,https://www.schw@rtz.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Stewart PLC on 2021-04-04.",no,johnhoward@hamilton.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Beard Inc on 1998-04-10.",no,patrickharris@hines-martin.com,001-205-745-8755x31089,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Diaz Ltd on 1988-05-15.",no,wzimmerman@hotmail.com,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Lee, Guzman and Andrade on 1998-04-12.",no,no,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Kelly LLC on 1980-12-09.",https://www.perez.com/,no,012.048.1209,sms,notification,no,none,none,no,https://www.p3r3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Mitchell-Cortez on 2025-01-07.",no,alice60@yahoo.com,no,app,notification,no,none,none,no,n0
+smishing,Smith-Chapman requires immediate verification of your account. Visit http://molina.com/ or call 1562917546.,https://www.white.biz/,no,001-033-061-5789x8789,telegram,scam,yes,critical,phishing_site,no,https://www.wh1t3.b1z/
+smishing,Murphy PLC requires immediate verification of your account. Visit https://www.christensen.com/ or call 412.126.8463x23334.,https://barrett.com/,barbermichelle@mahoney.com,no,whatsapp,phishing,yes,high,phishing_site,no,https://b@rr3tt.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Carter and Sons on 1990-08-15.",no,no,001-455-403-1220,sms,notification,no,none,none,no,n0
+smishing,Richardson PLC requires immediate verification of your account. Visit https://johnson.com/ or call 9165580722.,https://hood.info/,brian65@griffin-hernandez.com,001-028-920-2870x543,sms,malware,yes,critical,fraudulent_entity,no,https://h00d.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Patterson, Higgins and Rivera on 2011-03-23.",no,shannon00@george.biz,no,app,notification,no,none,none,no,n0
+smishing,Weaver Ltd requires immediate verification of your account. Visit http://huffman.com/ or call 235-112-9349.,http://www.colon.biz/,jacksonamber@miller.com,+1-027-921-2875x968,sms,malware,yes,critical,phishing_site,no,http://www.c0l0n.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Lawrence, Ellis and Foster on 2015-05-06.",no,peckdeborah@harper.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Morse-Horton on 1981-08-23.",no,jennyrose@gmail.com,no,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Carroll, Lewis and Jackson on 2015-12-09.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Hoffman, King and Bishop on 1971-12-31.",http://wilson.com/,no,001-763-331-4804x2718,sms,notification,no,none,none,no,http://w1ls0n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Brown Group on 1975-05-09.",no,ahanson@gmail.com,471-349-4849,app,notification,no,none,none,no,n0
+smishing,Roberts-Robinson requires immediate verification of your account. Visit https://www.whitehead.com/ or call 001-328-566-2325x449.,https://jordan-huang.biz/,michael80@yahoo.com,no,sms,scam,yes,critical,malware_app,no,https://j0rd@n-hu@ng.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Tate LLC on 2011-05-28.",no,haassusan@lewis.com,001-888-318-9962x4534,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Olson Group on 2014-10-18.",http://www.martinez-pennington.org/,no,001-055-902-8273x24763,sms,notification,no,none,none,no,http://www.m@rt1n3z-p3nn1ngt0n.0rg/
+non-smishing,"Hi, this is a reminder for your appointment at Brown, Monroe and Lopez on 1972-08-06.",no,martinmatthew@gmail.com,922-968-8306,email,notification,no,none,none,no,n0
+smishing,Rogers-Gray requires immediate verification of your account. Visit http://www.greene.biz/ or call 161.765.8888x06487.,http://www.robinson-moreno.com/,michelleochoa@hotmail.com,(110)351-5325x2446,telegram,scam,yes,critical,fraudulent_entity,no,http://www.r0b1ns0n-m0r3n0.c0m/
+smishing,Dennis Group requires immediate verification of your account. Visit http://www.walker.com/ or call 8817852963.,http://jefferson-hall.com/,no,no,sms,malware,yes,critical,fraudulent_entity,no,http://j3ff3rs0n-h@ll.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Hall-Barrera on 2012-09-08.",no,no,no,sms,notification,no,none,none,no,n0
+smishing,"Ramirez, Davis and Morris requires immediate verification of your account. Visit http://smith-hammond.info/ or call 001-060-460-0037.",http://www.brandt.info/,no,no,whatsapp,malware,yes,critical,fraudulent_entity,no,http://www.br@ndt.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Blanchard, Allen and Wolf on 2007-07-24.",no,no,no,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Brown, Carter and Roth on 2006-08-10.",no,bhenry@mcgrath.com,482-468-2397x2068,email,notification,no,none,none,no,n0
+smishing,Rodriguez Ltd requires immediate verification of your account. Visit https://www.hicks.com/ or call 659.046.5294x973.,http://vargas.biz/,brianedwards@hotmail.com,no,sms,malware,yes,high,malware_app,no,http://v@rg@s.b1z/
+smishing,Walton-Thomas requires immediate verification of your account. Visit https://www.lane-griffith.com/ or call 183.304.3413.,http://gordon-gonzalez.com/,no,no,telegram,malware,yes,critical,fraudulent_entity,no,http://g0rd0n-g0nz@l3z.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Swanson PLC on 2000-12-28.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Smith, Lawson and Maldonado on 1983-06-23.",https://www.castillo.biz/,no,+1-627-516-2393x5167,app,notification,no,none,none,no,https://www.c@st1ll0.b1z/
+non-smishing,"Hi, this is a reminder for your appointment at Price, Nolan and Harris on 1974-08-05.",no,sherrymiller@gmail.com,818.527.3775x41772,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Morris-Soto on 2020-11-21.",no,no,(788)586-7028x4090,app,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Lowery, Ellis and Cherry on 1980-01-02.",no,no,670-397-0238x071,sms,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Arias Inc on 2011-12-15.",no,ifuller@gmail.com,no,app,notification,no,none,none,no,n0
+smishing,"Harris, Hart and Ryan requires immediate verification of your account. Visit https://www.hester-brewer.org/ or call (261)281-0088x0054.",http://atkins.com/,no,no,telegram,data theft,yes,high,phishing_site,no,http://@tk1ns.c0m/
+smishing,Silva-Campbell requires immediate verification of your account. Visit https://hardy.com/ or call (706)557-1809x3840.,https://www.weber-sosa.com/,afisher@gmail.com,no,sms,malware,yes,critical,malware_app,no,https://www.w3b3r-s0s@.c0m/
+smishing,Hunter PLC requires immediate verification of your account. Visit https://gutierrez-mcdonald.net/ or call 128-181-2547.,no,morenochristine@hotmail.com,no,whatsapp,malware,yes,high,malware_app,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Roberts LLC on 2003-01-29.",https://lee.org/,no,(357)679-2701x571,sms,notification,no,none,none,no,https://l33.0rg/
+smishing,Powell-Freeman requires immediate verification of your account. Visit https://hudson.biz/ or call 965-933-3239.,http://nicholson.com/,parkergabriel@hotmail.com,no,whatsapp,malware,yes,high,malware_app,no,http://n1ch0ls0n.c0m/
+smishing,Carr-Brown requires immediate verification of your account. Visit http://davis-orr.org/ or call 853.480.3265.,no,brittanyanderson@gmail.com,001-174-827-8959x62475,sms,malware,yes,critical,phishing_site,no,n0
+smishing,"Cruz, Perry and Walls requires immediate verification of your account. Visit https://www.mcdaniel.org/ or call 001-939-533-6419.",http://fuller.com/,ymiller@yahoo.com,001-660-489-7529x816,telegram,malware,yes,high,phishing_site,no,http://full3r.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Wolf, Lewis and Valentine on 1978-09-08.",no,no,no,email,notification,no,none,none,no,n0
+non-smishing,"Hi, this is a reminder for your appointment at Willis Group on 1989-01-29.",no,wilsonjennifer@hotmail.com,no,sms,notification,no,none,none,no,n0
+smishing,"Liu, Jackson and Stanton requires immediate verification of your account. Visit http://fowler-proctor.com/ or call 234-290-3868x9540.",https://krueger.com/,no,701-875-7655x773,telegram,phishing,yes,high,fraudulent_entity,no,https://kru3g3r.c0m/
+smishing,Wilson Ltd requires immediate verification of your account. Visit http://www.ramirez-melton.com/ or call 135-561-6608x95276.,http://www.chapman.com/,jacob06@gmail.com,(279)540-9597x913,telegram,malware,yes,high,fraudulent_entity,no,http://www.ch@pm@n.c0m/
+non-smishing,"Hi, this is a reminder for your appointment at Gardner, Perez and Garcia on 2005-09-20.",https://wilson.info/,no,(869)822-1779,sms,notification,no,none,none,no,https://w1ls0n.1nf0/
+non-smishing,"Hi, this is a reminder for your appointment at Evans, Stanton and Valentine on 1988-08-20.",no,pwyatt@yahoo.com,no,sms,notification,no,none,none,no,n0
+smishing,Mcdaniel-Barnett requires immediate verification of your account. Visit http://mann.org/ or call 367.117.1401x52553.,no,candace88@yahoo.com,no,whatsapp,scam,yes,high,phishing_site,no,n0
+smishing,Griffin-Walker requires immediate verification of your account. Visit http://www.lopez.biz/ or call 608-224-3217x4091.,no,vjohnson@phillips.com,+1-991-389-2670x3362,whatsapp,malware,yes,critical,malware_app,no,n0
